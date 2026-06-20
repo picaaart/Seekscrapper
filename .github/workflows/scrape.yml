@@ -1,4 +1,4 @@
-name: Seek Scraper
+name: Seek Scraper - Multi Category
 
 on:
   schedule:
@@ -8,6 +8,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
 
     steps:
     - uses: actions/checkout@v3
@@ -23,12 +24,14 @@ jobs:
         pip install -r requirements.txt
         python -m playwright install chromium
 
-    - name: Run scraper
-      run: python3 seek_scraper.py
+    - name: Run multi-category scraper
+      run: |
+        cd ${{ github.workspace }}
+        python3 seek_scraper.py
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/labourer_jobs_queensland.csv
-        git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto scrape: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+        git add data/jobs_australia_current.csv data/jobs_australia_archive.csv
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto scrape multi-category: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
