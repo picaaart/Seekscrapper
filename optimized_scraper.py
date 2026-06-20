@@ -210,12 +210,42 @@ class OptimizedSeekScraper:
             if title_elem:
                 title = title_elem.get_text(strip=True)
 
+            # Better company extraction
             company = 'N/A'
-            links = job_element.find_all('a')
-            if len(links) > 1:
-                company = links[1].get_text(strip=True)
-            elif links:
-                company = links[0].get_text(strip=True)
+
+            # Try multiple strategies to find company name
+            # Strategy 1: Look for company link/span with specific attributes
+            company_elem = job_element.find('a', {'data-testid': 'job-company-name'})
+            if company_elem:
+                company = company_elem.get_text(strip=True)
+
+            # Strategy 2: Look for span with company class
+            if company == 'N/A':
+                company_elem = job_element.find('span', class_=lambda x: x and 'company' in str(x).lower())
+                if company_elem:
+                    company = company_elem.get_text(strip=True)
+
+            # Strategy 3: Find by common Seek patterns
+            if company == 'N/A':
+                # Seek usually has company in a specific structure
+                for div in job_element.find_all('div'):
+                    text = div.get_text(strip=True)
+                    # Look for text that looks like a company (2-50 chars, not a job title)
+                    if len(text) > 3 and len(text) < 100 and not any(x in text.lower() for x in ['apply', 'save', 'view', 'more']):
+                        # Skip if it looks like a title (too short or contains job keywords)
+                        if not any(keyword.lower() in text.lower() for keyword in [job_keyword, 'job', 'apply']):
+                            company = text
+                            break
+
+            # Strategy 4: Fallback - search all links for company-like text
+            if company == 'N/A':
+                links = job_element.find_all('a')
+                for link in links:
+                    text = link.get_text(strip=True)
+                    # Skip if it's too short or looks like UI text
+                    if 4 < len(text) < 100 and not any(x in text.lower() for x in ['apply', 'save', 'view', 'more', 'ago']):
+                        company = text
+                        break
 
             location = 'N/A'
             for elem in job_element.find_all('span'):
