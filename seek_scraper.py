@@ -26,6 +26,7 @@ from config import (
 )
 from jobs_config import JOBS_CATEGORIES, AUSTRALIAN_STATES, OUTPUT_CSV_CURRENT, OUTPUT_CSV_ARCHIVE, DATA_RETENTION_DAYS
 from data_cleaner import DataCleaner
+from visa_417_checker import Visa417Checker
 
 # Setup logging
 logging.basicConfig(
@@ -52,6 +53,7 @@ class MultiCategorySeekScraper:
         }
         self.output_file = OUTPUT_CSV_CURRENT
         self.archive_file = OUTPUT_CSV_ARCHIVE
+        self.visa_checker = Visa417Checker()
 
     def build_seek_url(self, job_keyword, state_code):
         """Construit l'URL Seek pour une recherche"""
@@ -186,7 +188,7 @@ class MultiCategorySeekScraper:
                         salary = text
                         break
 
-            return {
+            job_data = {
                 'title': title,
                 'company': company,
                 'location': location,
@@ -198,6 +200,13 @@ class MultiCategorySeekScraper:
                 'url': url,
                 'scraped_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             }
+
+            # Add visa 417 eligibility info
+            visa_info = self.visa_checker.check_job_eligibility(job_data)
+            job_data['visa_417_eligible'] = visa_info['visa_417_eligible']
+            job_data['visa_417_categories'] = visa_info['visa_417_categories']
+
+            return job_data
         except:
             return None
 
@@ -213,7 +222,8 @@ class MultiCategorySeekScraper:
             with open(self.output_file, 'a', newline='', encoding='utf-8') as csvfile:
                 fieldnames = [
                     'title', 'company', 'location', 'state', 'job_category',
-                    'job_keyword', 'job_type', 'salary', 'url', 'scraped_at'
+                    'job_keyword', 'job_type', 'salary', 'visa_417_eligible',
+                    'visa_417_categories', 'url', 'scraped_at'
                 ]
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
