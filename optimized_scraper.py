@@ -32,6 +32,7 @@ from jobs_config import JOBS_CATEGORIES, AUSTRALIAN_STATES, OUTPUT_CSV_CURRENT, 
 from data_cleaner import DataCleaner
 from visa_417_checker import Visa417Checker
 from analytics_generator import AnalyticsGenerator
+from fifo_wa_details_scraper import FIFOWADetailsScraper
 
 # Setup logging
 logging.basicConfig(
@@ -338,6 +339,13 @@ class OptimizedSeekScraper:
         self.scrape_all_jobs()
         self.save_to_csv()
         self._save_cache()
+
+        # Scrape detailed info for FIFO WA jobs (< 2 hours)
+        logger.info("\n🔍 Scraping FIFO WA job details...")
+        fifo_scraper = FIFOWADetailsScraper()
+        fifo_scraper.run(self.jobs)
+
+        # Cleanup old data
         self.cleanup_old_data()
 
         # Generate analytics

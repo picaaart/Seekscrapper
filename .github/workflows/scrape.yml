@@ -33,5 +33,5 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add data/jobs_australia_current.csv data/jobs_australia_archive.csv data/scrape_cache.json data/company_stats.csv data/location_stats.csv data/category_stats.csv data/monthly_trends.json data/monthly_trends.csv
-        git diff --quiet && git diff --staged --quiet || (git commit -m "⚡ Scrape + analytics + trends: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+        git add data/jobs_australia_current.csv data/jobs_australia_archive.csv data/scrape_cache.json data/company_stats.csv data/location_stats.csv data/category_stats.csv data/monthly_trends.json data/monthly_trends.csv data/jobs_australia_fifo_wa_details.csv
+        git diff --quiet && git diff --staged --quiet || (git commit -m "⚡ Scrape + analytics + FIFO WA details: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
