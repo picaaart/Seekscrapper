@@ -62,9 +62,9 @@ class TelegramAlerts:
             logger.error(f"Error sending Telegram message: {e}")
             return False
 
-    def format_fifo_wa_jobs(self, jobs: List[Dict]) -> str:
+    def format_fifo_jobs_by_state(self, jobs: List[Dict]) -> str:
         """
-        Format FIFO WA jobs for Telegram alert
+        Format FIFO jobs grouped by state with full details
 
         Args:
             jobs: List of job dictionaries
@@ -73,31 +73,56 @@ class TelegramAlerts:
             Formatted message string
         """
         if not jobs:
-            return "No new FIFO WA jobs"
+            return "No new FIFO jobs"
 
-        message = f"🚨 <b>FIFO WA Jobs Alert</b> ({len(jobs)} new)\n\n"
+        # Group jobs by state
+        jobs_by_state = {}
+        for job in jobs:
+            state = job.get('state', 'N/A')
+            if state not in jobs_by_state:
+                jobs_by_state[state] = []
+            jobs_by_state[state].append(job)
 
-        for i, job in enumerate(jobs[:5], 1):  # Max 5 jobs per alert
-            title = job.get('title', 'N/A')
-            company = job.get('company', 'N/A')
-            location = job.get('location', 'N/A')
-            salary = job.get('salary', 'N/A')
-            url = job.get('url', '#')
+        # Sort states
+        sorted_states = sorted(jobs_by_state.keys())
 
-            # Format salary
-            salary_text = ""
-            if salary != 'N/A':
-                salary_text = f"💰 {salary}\n"
+        message = f"🚨 <b>FIFO Jobs Alert</b> ({len(jobs)} new)\n\n"
 
-            message += f"""<b>{i}. {title}</b>
-🏢 {company}
-📍 {location}
-{salary_text}<a href="{url}">View Job</a>
+        for state in sorted_states:
+            state_jobs = jobs_by_state[state]
+            message += f"<b>📍 {state}</b> ({len(state_jobs)} jobs)\n\n"
+
+            for i, job in enumerate(state_jobs[:3], 1):  # Max 3 per state
+                title = job.get('title', 'N/A')
+                company = job.get('company', 'N/A')
+                location = job.get('location', 'N/A')
+                salary = job.get('salary', 'N/A')
+                job_type = job.get('job_type', 'N/A')
+                url = job.get('url', '#')
+                visa_417 = job.get('visa_417_eligible', 'N/A')
+                visa_cats = job.get('visa_417_categories', 'N/A')
+
+                # Format visa 417
+                visa_text = ""
+                if visa_417 == 'Yes':
+                    visa_text = f"🇦🇺 Visa 417: ✅ Eligible ({visa_cats})"
+                elif visa_417 == 'No':
+                    visa_text = "🇦🇺 Visa 417: ❌ Not eligible"
+
+                message += f"""<b>{i}. {title}</b>
+🏢 {company} | {location}
+💰 {salary} | 🎯 {job_type}
+
+{visa_text}
+
+<a href="{url}">→ Apply Now</a>
 
 """
 
-        if len(jobs) > 5:
-            message += f"... and {len(jobs) - 5} more jobs!"
+            if len(state_jobs) > 3:
+                message += f"<i>... and {len(state_jobs) - 3} more in {state}</i>\n"
+
+            message += "\n"
 
         return message
 
@@ -112,13 +137,66 @@ class TelegramAlerts:
 
         return message
 
-    def send_jobs_alert(self, jobs: List[Dict]) -> bool:
-        """Send jobs alert to Telegram"""
+    def send_jobs_alert_by_state(self, jobs: List[Dict]) -> bool:
+        """Send separate alert for each state"""
         if not jobs:
             return False
 
-        message = self.format_fifo_wa_jobs(jobs)
-        return self.send_message(message)
+        # Group jobs by state
+        jobs_by_state = {}
+        for job in jobs:
+            state = job.get('state', 'N/A')
+            if state not in jobs_by_state:
+                jobs_by_state[state] = []
+            jobs_by_state[state].append(job)
+
+        # Send one message per state
+        total_sent = 0
+        for state in sorted(jobs_by_state.keys()):
+            state_jobs = jobs_by_state[state]
+            message = f"🚨 <b>FIFO Jobs Alert - {state}</b> ({len(state_jobs)} new)\n\n"
+
+            for i, job in enumerate(state_jobs[:5], 1):  # Max 5 per state
+                title = job.get('title', 'N/A')
+                company = job.get('company', 'N/A')
+                location = job.get('location', 'N/A')
+                salary = job.get('salary', 'N/A')
+                job_type = job.get('job_type', 'N/A')
+                url = job.get('url', '#')
+                visa_417 = job.get('visa_417_eligible', 'N/A')
+                visa_cats = job.get('visa_417_categories', 'N/A')
+
+                visa_text = ""
+                if visa_417 == 'Yes':
+                    visa_text = f"🇦🇺 Visa 417: ✅ Eligible ({visa_cats})"
+                elif visa_417 == 'No':
+                    visa_text = "🇦🇺 Visa 417: ❌ Not eligible"
+
+                message += f"""<b>{i}. {title}</b>
+🏢 {company} | {location}
+💰 {salary} | 🎯 {job_type}
+
+{visa_text}
+
+<a href="{url}">→ Apply Now</a>
+
+"""
+
+            if len(state_jobs) > 5:
+                message += f"<i>... and {len(state_jobs) - 5} more jobs in {state}</i>"
+
+            if self.send_message(message):
+                total_sent += 1
+
+        logger.info(f"✓ Sent {total_sent} state alerts")
+        return total_sent > 0
+
+    def send_jobs_alert(self, jobs: List[Dict]) -> bool:
+        """Send jobs alert to Telegram (one per state)"""
+        if not jobs:
+            return False
+
+        return self.send_jobs_alert_by_state(jobs)
 
     def send_test_alert(self) -> bool:
         """Send a test alert"""
