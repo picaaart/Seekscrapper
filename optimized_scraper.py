@@ -31,6 +31,7 @@ from config import (
 from jobs_config import JOBS_CATEGORIES, AUSTRALIAN_STATES, OUTPUT_CSV_CURRENT, OUTPUT_CSV_ARCHIVE, DATA_RETENTION_DAYS
 from data_cleaner import DataCleaner
 from visa_417_checker import Visa417Checker
+from analytics_generator import AnalyticsGenerator
 
 # Setup logging
 logging.basicConfig(
@@ -338,6 +339,12 @@ class OptimizedSeekScraper:
         self.save_to_csv()
         self._save_cache()
         self.cleanup_old_data()
+
+        # Generate analytics
+        logger.info("\n📊 Generating analytics...")
+        analytics = AnalyticsGenerator(self.output_file)
+        analytics.generate_all()
+
         logger.info("\n✅ Optimized scrape cycle complete\n")
 
 
