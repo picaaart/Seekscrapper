@@ -33,6 +33,7 @@ from data_cleaner import DataCleaner
 from visa_417_checker import Visa417Checker
 from analytics_generator import AnalyticsGenerator
 from fifo_wa_details_scraper import FIFOWADetailsScraper
+from telegram_alerts import TelegramAlerts
 
 # Setup logging
 logging.basicConfig(
@@ -344,6 +345,19 @@ class OptimizedSeekScraper:
         logger.info("\n🔍 Scraping FIFO WA job details...")
         fifo_scraper = FIFOWADetailsScraper()
         fifo_scraper.run(self.jobs)
+
+        # Send Telegram alerts for new FIFO WA jobs
+        logger.info("\n📱 Sending Telegram alerts...")
+        new_fifo_wa_jobs = [
+            j for j in self.jobs
+            if j.get('job_category') == 'FIFO / Mines'
+            and j.get('state') == 'WA'
+        ]
+
+        if new_fifo_wa_jobs:
+            telegram = TelegramAlerts()
+            telegram.send_jobs_alert(new_fifo_wa_jobs[:10])  # Send top 10
+            logger.info(f"✓ Sent {len(new_fifo_wa_jobs[:10])} jobs to Telegram")
 
         # Cleanup old data
         self.cleanup_old_data()
