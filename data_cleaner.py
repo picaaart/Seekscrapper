@@ -126,6 +126,15 @@ class DataCleaner:
         logger.info(f"Starting cleanup (retention: {self.retention_days} days)...")
         logger.info(f"Cutoff date: {self.cutoff_date.strftime('%Y-%m-%d')}")
 
+        # Track trends BEFORE cleanup
+        try:
+            from trends_tracker import TrendsTracker
+            logger.info("📊 Capturing trends before cleanup...")
+            tracker = TrendsTracker(current_csv)
+            tracker.track_trends()
+        except Exception as e:
+            logger.warning(f"Could not track trends: {e}")
+
         # Archive d'abord (avant de nettoyer)
         if archive_csv:
             self.archive_removed_entries(current_csv, archive_csv)
