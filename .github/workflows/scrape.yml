@@ -12,6 +12,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GH_TOKEN }}
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -33,6 +35,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
         git add data/jobs_australia_current.csv data/scrape_cache.json 2>/dev/null || true
         git add data/jobs_australia_archive.csv 2>/dev/null || true
         git add data/company_stats.csv data/location_stats.csv data/category_stats.csv 2>/dev/null || true
