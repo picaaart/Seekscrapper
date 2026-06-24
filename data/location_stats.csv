@@ -1,23 +1,23 @@
 state,location,total_jobs,top_category,avg_salary,last_posted
 ACT,"Acton,Canberra ACT",1,Cleaning / Facilities,N/A,2026-06-23 04:27:11
-ACT,"Ainslie,Canberra ACT",4,Hospitality,$29,2026-06-23 15:37:48
-ACT,"Aranda,Canberra ACT",4,Cleaning / Facilities,N/A,2026-06-23 15:37:48
-ACT,"Barton,Canberra ACT",5,Hospitality,$28,2026-06-23 15:37:48
+ACT,"Ainslie,Canberra ACT",8,Hospitality,$29,2026-06-24 04:15:45
+ACT,"Aranda,Canberra ACT",5,Cleaning / Facilities,N/A,2026-06-24 04:15:45
+ACT,"Barton,Canberra ACT",8,Hospitality,$28,2026-06-24 04:15:45
 ACT,"Beard,Canberra ACT",12,Warehouse / Distribution,N/A,2026-06-23 15:34:36
 ACT,"Belconnen,Canberra ACT",9,Warehouse / Distribution,"$37,555",2026-06-23 04:19:37
 ACT,"Belconnen,Canberra ACT(Remote)",3,Cleaning / Facilities,N/A,2026-06-23 15:37:48
 ACT,"Braddon,Canberra ACT",5,Cleaning / Facilities,"$38,017",2026-06-23 15:37:48
-ACT,"Bruce,Canberra ACT",4,Cleaning / Facilities,"$70,000",2026-06-23 15:37:48
+ACT,"Bruce,Canberra ACT",5,Cleaning / Facilities,"$70,000",2026-06-24 04:15:45
 ACT,"Calwell,Canberra ACT",1,Retail,N/A,2026-06-22 12:33:08
-ACT,"Campbell,Canberra ACT",2,Cleaning / Facilities,"$70,000",2026-06-23 15:27:26
-ACT,Canberra ACT,467,Construction,"$25,389",2026-06-23 15:37:48
-ACT,Canberra ACT(Hybrid),13,Security,"$104,092",2026-06-23 04:23:56
+ACT,"Campbell,Canberra ACT",3,Hospitality,"$70,000",2026-06-24 04:15:45
+ACT,Canberra ACT,478,Construction,"$25,409",2026-06-24 04:24:55
+ACT,Canberra ACT(Hybrid),14,Security,"$111,606",2026-06-24 04:24:55
 ACT,Canberra ACT(Remote),4,Construction,$45,2026-06-23 15:14:28
-ACT,"Canberra International Airport,Canberra ACT",7,Hospitality,"$44,668",2026-06-23 15:37:48
+ACT,"Canberra International Airport,Canberra ACT",11,Hospitality,"$50,251",2026-06-24 04:15:45
 ACT,"Casey,Canberra ACT",1,Healthcare / Aged Care,N/A,2026-06-22 12:31:15
 ACT,"Chapman,Canberra ACT",1,Healthcare / Aged Care,"$70,000",2026-06-22 12:31:15
 ACT,"Charnwood,Canberra ACT",2,Retail,$32,2026-06-23 15:34:36
-ACT,"Curtin,Canberra ACT",2,Cleaning / Facilities,N/A,2026-06-23 15:37:48
+ACT,"Curtin,Canberra ACT",3,Cleaning / Facilities,N/A,2026-06-24 04:15:45
 ACT,"Deakin,Canberra ACT",9,Retail,"$50,558",2026-06-23 15:37:48
 ACT,"Downer,Canberra ACT",4,Hospitality,"$90,000",2026-06-23 15:27:26
 ACT,"Duntroon,Canberra ACT",1,Construction,$47,2026-06-22 07:58:23
@@ -26,14 +26,14 @@ ACT,"Forde,Canberra ACT",1,Healthcare / Aged Care,N/A,2026-06-22 12:31:15
 ACT,"Fyshwick,Canberra ACT",121,Logistics / Transport,"$12,933",2026-06-23 15:34:36
 ACT,"Gordon,Canberra ACT",1,Healthcare / Aged Care,$45,2026-06-22 12:31:15
 ACT,"Greenway,Canberra ACT",10,Hospitality,"$65,846",2026-06-23 15:27:26
-ACT,"Gungahlin,Canberra ACT",8,Hospitality,"$71,000",2026-06-23 15:37:48
+ACT,"Gungahlin,Canberra ACT",9,Hospitality,"$71,000",2026-06-24 04:15:45
 ACT,"Harman,Canberra ACT",1,Construction,$28,2026-06-23 15:15:43
 ACT,"Holder,Canberra ACT",5,Construction,N/A,2026-06-23 04:21:47
 ACT,"Holt,Canberra ACT",1,Healthcare / Aged Care,N/A,2026-06-23 04:17:40
 ACT,"Hume,Canberra ACT",43,Construction,"$4,157",2026-06-23 15:34:36
 ACT,"Isabella Plains,Canberra ACT",1,Healthcare / Aged Care,N/A,2026-06-22 12:31:15
 ACT,"Kambah,Canberra ACT",2,Hospitality,$35,2026-06-23 15:27:26
-ACT,"Kingston,Canberra ACT",4,Hospitality,"$60,000",2026-06-23 15:32:25
+ACT,"Kingston,Canberra ACT",5,Hospitality,"$60,000",2026-06-24 04:15:45
 ACT,"Latham,Canberra ACT",2,Construction,"$80,000",2026-06-23 15:15:43
 ACT,"Lyneham,Canberra ACT",5,Hospitality,$2,2026-06-23 15:27:26
 ACT,"Macgregor,Canberra ACT",7,Agriculture / Farms,$30,2026-06-23 15:21:29
@@ -43,18 +43,19 @@ ACT,"Majura,Canberra ACT",8,Warehouse / Distribution,$32,2026-06-23 15:27:26
 ACT,"Mawson,Canberra ACT",2,Retail,$35,2026-06-23 15:34:36
 ACT,"Melba,Canberra ACT",1,Cleaning / Facilities,$45,2026-06-23 04:27:11
 ACT,"Mitchell,Canberra ACT",39,Warehouse / Distribution,"$13,634",2026-06-23 15:37:48
-ACT,"Monash,Canberra ACT",3,Cleaning / Facilities,$33,2026-06-23 15:37:48
+ACT,"Monash,Canberra ACT",4,Cleaning / Facilities,$32,2026-06-24 04:15:45
 ACT,"Narrabundah,Canberra ACT",4,Construction,N/A,2026-06-23 15:14:28
-ACT,"Nicholls,Canberra ACT",5,Hospitality,"$25,149",2026-06-23 15:37:48
+ACT,"Nicholls,Canberra ACT",6,Hospitality,"$20,961",2026-06-24 04:15:45
 ACT,"O'Connor,Canberra ACT",3,Cleaning / Facilities,N/A,2026-06-23 15:37:48
 ACT,"Page,Canberra ACT",1,Cleaning / Facilities,N/A,2026-06-23 04:27:10
-ACT,"Palmerston,Canberra ACT",3,Agriculture / Farms,"$75,000",2026-06-23 15:37:48
+ACT,"Palmerston,Canberra ACT",4,Agriculture / Farms,"$75,000",2026-06-24 04:15:45
+ACT,"Parkes,Canberra ACT",1,Hospitality,$27,2026-06-24 04:15:45
 ACT,"Phillip,Canberra ACT",7,Retail,"$77,500",2026-06-23 15:27:26
 ACT,"Red Hill,Canberra ACT",1,Hospitality,"$77,000",2026-06-22 08:11:23
 ACT,"Stromlo,Canberra ACT",2,Hospitality,"$90,000",2026-06-23 15:27:26
 ACT,"Symonston,Canberra ACT",6,Cleaning / Facilities,$30,2026-06-23 15:37:48
 ACT,"Taylor,Canberra ACT",1,Cleaning / Facilities,N/A,2026-06-23 15:37:48
-ACT,"Tuggeranong,Canberra ACT",4,Healthcare / Aged Care,"$31,437",2026-06-23 04:19:37
+ACT,"Tuggeranong,Canberra ACT",8,Warehouse / Distribution,"$31,437",2026-06-24 04:24:55
 ACT,"Watson,Canberra ACT",1,Healthcare / Aged Care,"$85,000",2026-06-23 04:17:40
 ACT,"Weston,Canberra ACT",2,Hospitality,"$34,012",2026-06-22 12:33:08
 ACT,"Woden,Canberra ACT",9,Hospitality,$32,2026-06-23 15:34:36
@@ -63,13 +64,14 @@ ACT,"Yarralumla,Canberra ACT",3,Cleaning / Facilities,"$72,237",2026-06-23 15:37
 ACT,atACT Mobile Locksmith,1,Retail,$30,2026-06-23 04:19:37
 ACT,atACT Property Inspections,2,Construction,N/A,2026-06-23 04:27:11
 ACT,atACT Stainless Steel & Catering Equipment Pty Ltd,6,Construction,N/A,2026-06-23 04:21:47
+ACT,"atAnglicare NSW South, NSW West & ACT",1,Hospitality,$29,2026-06-24 04:15:45
 ACT,atBaxter Engineering (ACT) Pty Ltd,1,Construction,$40,2026-06-22 12:16:28
 ACT,atExpress Employment Professionals Canberra ACT North,1,Hospitality,$40,2026-06-22 08:11:23
 ACT,atRSPCA (ACT) Inc,1,Retail,$24,2026-06-23 04:19:37
 ACT,atRight at Home ACT & Queanbeyan,1,Healthcare / Aged Care,$41,2026-06-22 12:31:15
 ACT,atTR Civils (ACT) Pty Ltd,6,FIFO / Mines,N/A,2026-06-23 04:21:47
 NSW,"Albion Park,Wollongong, Illawarra & South Coast NSW",1,Cleaning / Facilities,N/A,2026-06-22 08:23:21
-NSW,"Albury,Albury Area NSW",4,Healthcare / Aged Care,$5,2026-06-22 12:29:09
+NSW,"Albury,Albury Area NSW",5,Healthcare / Aged Care,$18,2026-06-24 04:05:46
 NSW,"Alexandria,Sydney NSW",2,Cleaning / Facilities,N/A,2026-06-23 15:38:44
 NSW,"Annandale,Sydney NSW",1,Hospitality,N/A,2026-06-22 08:09:17
 NSW,"Armidale,Tamworth & North West NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:19
@@ -92,6 +94,7 @@ NSW,"Baulkham Hills,Sydney NSW(Hybrid)",1,Cleaning / Facilities,$38,2026-06-22 0
 NSW,"Beckom,Wagga Wagga & Riverina NSW",4,Agriculture / Farms,$30,2026-06-23 15:22:01
 NSW,"Bega,Wollongong, Illawarra & South Coast NSW",2,Healthcare / Aged Care,"$15,900",2026-06-22 12:29:09
 NSW,"Bella Vista,Sydney NSW",5,Healthcare / Aged Care,$30,2026-06-23 04:10:40
+NSW,"Bellevue Hill,Sydney NSW",1,Cleaning / Facilities,$35,2026-06-24 04:27:41
 NSW,"Belmont,Newcastle, Maitland & Hunter NSW",1,Healthcare / Aged Care,$32,2026-06-23 15:30:09
 NSW,"Belrose,Sydney NSW",1,Logistics / Transport,$34,2026-06-23 04:10:40
 NSW,"Blackheath,Blue Mountains & Central West NSW",1,Hospitality,N/A,2026-06-22 08:09:17
@@ -106,11 +109,12 @@ NSW,"Bringelly,Sydney NSW",1,FIFO / Mines,$35,2026-06-23 04:06:19
 NSW,"Broke,Newcastle, Maitland & Hunter NSW",1,Hospitality,"$80,000",2026-06-23 15:27:16
 NSW,"Broken Hill,Far West & North Central NSW",7,FIFO / Mines,N/A,2026-06-23 15:18:46
 NSW,"Brookvale,Sydney NSW",1,Retail,$30,2026-06-23 04:18:35
+NSW,"Buchanan,Newcastle, Maitland & Hunter NSW",1,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Bulahdelah,Newcastle, Maitland & Hunter NSW",1,Agriculture / Farms,"$85,000",2026-06-22 12:21:35
 NSW,"Burraboi,Albury Area NSW",1,Agriculture / Farms,N/A,2026-06-22 12:21:35
 NSW,"Burraneer,Sydney NSW",1,Hospitality,"$80,000",2026-06-23 15:27:16
 NSW,"Burwood,Sydney NSW",2,Healthcare / Aged Care,"$31,020",2026-06-23 04:18:35
-NSW,"Byron Bay,Lismore & Far North Coast NSW",1,Retail,$30,2026-06-23 04:19:53
+NSW,"Byron Bay,Lismore & Far North Coast NSW",2,Retail,"$38,515",2026-06-24 04:05:46
 NSW,"Caniaba,Lismore & Far North Coast NSW",4,Agriculture / Farms,N/A,2026-06-23 15:22:01
 NSW,"Caringbah South,Sydney NSW",1,Healthcare / Aged Care,N/A,2026-06-22 08:13:50
 NSW,"Carrathool,Wagga Wagga & Riverina NSW",1,Agriculture / Farms,"$90,000",2026-06-22 12:21:35
@@ -134,14 +138,16 @@ NSW,"Cooma,Tumut, Snowy & Monaro NSW",3,Healthcare / Aged Care,$27,2026-06-23 15
 NSW,"Coonabarabran,Dubbo & Central NSW",1,Agriculture / Farms,N/A,2026-06-22 12:21:35
 NSW,"Coonamble,Dubbo & Central NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:19
 NSW,"Corindi Beach,Coffs Harbour & North Coast NSW",1,Agriculture / Farms,N/A,2026-06-23 04:07:52
+NSW,"Corowa,Wagga Wagga & Riverina NSW",1,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Cowra,Blue Mountains & Central West NSW",5,Agriculture / Farms,$25,2026-06-23 15:22:01
 NSW,"Croydon Park,Sydney NSW",2,Hospitality,$35,2026-06-23 04:13:41
 NSW,"Cudal,Blue Mountains & Central West NSW",2,Warehouse / Distribution,N/A,2026-06-23 04:07:52
 NSW,"Dapto,Wollongong, Illawarra & South Coast NSW",1,Security,N/A,2026-06-22 08:21:23
 NSW,"Darlinghurst,Sydney NSW",3,Healthcare / Aged Care,"$58,554",2026-06-22 12:30:52
+NSW,"Denham Court,Sydney NSW",1,Cleaning / Facilities,"$15,900",2026-06-24 04:27:41
 NSW,"Dorrigo,Coffs Harbour & North Coast NSW",1,Healthcare / Aged Care,$33,2026-06-22 12:30:52
 NSW,"Double Bay,Sydney NSW",2,Hospitality,$32,2026-06-23 04:13:41
-NSW,"Dubbo,Dubbo & Central NSW",26,FIFO / Mines,"$14,343",2026-06-23 15:30:09
+NSW,"Dubbo,Dubbo & Central NSW",30,FIFO / Mines,"$12,553",2026-06-24 04:27:41
 NSW,"Dubbo,Dubbo & Central NSW(Hybrid)",1,Healthcare / Aged Care,N/A,2026-06-22 12:29:09
 NSW,"Dulwich Hill,Sydney NSW",1,Hospitality,N/A,2026-06-22 12:26:50
 NSW,"Dungarubba,Lismore & Far North Coast NSW",1,Agriculture / Farms,"$70,000",2026-06-23 15:21:46
@@ -156,20 +162,25 @@ NSW,"Eveleigh,Sydney NSW",1,Cleaning / Facilities,N/A,2026-06-23 15:38:44
 NSW,"Fairfield,Sydney NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:04
 NSW,"Finley,Wagga Wagga & Riverina NSW",4,Agriculture / Farms,"$75,000",2026-06-23 15:22:01
 NSW,"Forbes,Dubbo & Central NSW",15,Agriculture / Farms,$34,2026-06-23 15:30:09
+NSW,"Forster,Newcastle, Maitland & Hunter NSW",1,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Freemantle,Blue Mountains & Central West NSW(Hybrid)",2,Cleaning / Facilities,$35,2026-06-22 08:23:21
 NSW,"Gateshead,Newcastle, Maitland & Hunter NSW",1,Healthcare / Aged Care,N/A,2026-06-22 08:13:50
 NSW,"Goonellabah,Lismore & Far North Coast NSW",1,Security,$32,2026-06-22 08:21:23
 NSW,Gosford & Central Coast NSW,1,FIFO / Mines,$39,2026-06-23 04:06:19
-NSW,"Goulburn,Southern Highlands & Tablelands NSW",5,Cleaning / Facilities,$41,2026-06-23 15:30:09
+NSW,"Gosford,Gosford & Central Coast NSW",1,Construction,$33,2026-06-24 04:05:46
+NSW,"Goulburn,Southern Highlands & Tablelands NSW",6,Cleaning / Facilities,$39,2026-06-24 04:27:41
 NSW,"Grafton,Coffs Harbour & North Coast NSW",2,Security,N/A,2026-06-23 15:37:23
 NSW,"Grasmere,Sydney NSW",2,Healthcare / Aged Care,$34,2026-06-23 15:30:09
 NSW,"Greenacre,Sydney NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:19
+NSW,"Grenfell,Dubbo & Central NSW",1,Cleaning / Facilities,$32,2026-06-24 04:27:41
 NSW,"Griffith,Wagga Wagga & Riverina NSW",3,Hospitality,$33,2026-06-23 04:13:41
 NSW,"Gundagai,Wagga Wagga & Riverina NSW",1,Cleaning / Facilities,$32,2026-06-22 08:22:16
 NSW,"Gunnedah,Tamworth & North West NSW",11,FIFO / Mines,$32,2026-06-23 15:30:09
 NSW,"Gymea,Sydney NSW",1,Hospitality,"$70,000",2026-06-23 15:27:16
+NSW,"Hamlyn Terrace,Gosford & Central Coast NSW",1,Cleaning / Facilities,$35,2026-06-24 04:27:41
 NSW,"Harden,Southern Highlands & Tablelands NSW",5,Agriculture / Farms,N/A,2026-06-23 15:30:09
 NSW,"Heatherbrae,Newcastle, Maitland & Hunter NSW",1,Logistics / Transport,$32,2026-06-23 04:10:40
+NSW,"Holsworthy,Sydney NSW",1,Cleaning / Facilities,$27,2026-06-24 04:27:41
 NSW,"Homebush West,Sydney NSW",2,Agriculture / Farms,"$83,200",2026-06-23 04:10:40
 NSW,"Homebush,Sydney NSW",3,Hospitality,$26,2026-06-23 04:19:53
 NSW,"Hornsby,Sydney NSW",4,Healthcare / Aged Care,N/A,2026-06-22 12:30:52
@@ -181,10 +192,10 @@ NSW,"Inverell,Tamworth & North West NSW",5,Agriculture / Farms,$31,2026-06-23 15
 NSW,"Jerilderie,Wagga Wagga & Riverina NSW",1,Agriculture / Farms,N/A,2026-06-22 12:21:35
 NSW,"Jerrys Plains,Newcastle, Maitland & Hunter NSW",1,Warehouse / Distribution,N/A,2026-06-22 08:18:36
 NSW,"Kanwal,Gosford & Central Coast NSW",5,Healthcare / Aged Care,$30,2026-06-22 12:29:09
-NSW,"Katoomba,Blue Mountains & Central West NSW",1,Cleaning / Facilities,"$82,540",2026-06-23 15:38:44
+NSW,"Katoomba,Blue Mountains & Central West NSW",2,Cleaning / Facilities,"$78,770",2026-06-24 04:05:46
 NSW,"Kelso,Blue Mountains & Central West NSW",1,Retail,N/A,2026-06-23 04:19:53
 NSW,"Kemps Creek,Sydney NSW",1,Logistics / Transport,"$60,000",2026-06-23 04:10:40
-NSW,"Kempsey,Port Macquarie & Mid North Coast NSW",4,Healthcare / Aged Care,$31,2026-06-22 12:30:52
+NSW,"Kempsey,Port Macquarie & Mid North Coast NSW",5,Healthcare / Aged Care,$32,2026-06-24 04:05:46
 NSW,"Kiama,Wollongong, Illawarra & South Coast NSW",1,Hospitality,N/A,2026-06-22 12:26:50
 NSW,"Killarney Vale,Gosford & Central Coast NSW",1,Healthcare / Aged Care,N/A,2026-06-22 08:12:06
 NSW,"Kingscliff,Lismore & Far North Coast NSW",4,Retail,"$60,000",2026-06-23 04:19:53
@@ -192,18 +203,20 @@ NSW,"Kogarah,Sydney NSW",3,Healthcare / Aged Care,N/A,2026-06-22 08:21:23
 NSW,"Kotara,Newcastle, Maitland & Hunter NSW",1,Hospitality,$32,2026-06-22 08:09:17
 NSW,"Kurnell,Sydney NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:19
 NSW,"Kyogle,Lismore & Far North Coast NSW",1,Healthcare / Aged Care,$33,2026-06-23 15:30:09
+NSW,"Lane Cove West,Sydney NSW",1,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Leeton,Wagga Wagga & Riverina NSW",5,Agriculture / Farms,N/A,2026-06-23 15:22:01
 NSW,"Lennox Head,Lismore & Far North Coast NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:19
 NSW,"Leppington,Sydney NSW",2,Logistics / Transport,N/A,2026-06-23 04:10:40
 NSW,"Lidcombe,Sydney NSW",9,Warehouse / Distribution,$37,2026-06-23 04:10:40
 NSW,"Lightning Ridge,Far West & North Central NSW",2,Cleaning / Facilities,$32,2026-06-23 15:30:09
 NSW,"Lindendale,Lismore & Far North Coast NSW",4,Agriculture / Farms,"$65,000",2026-06-23 15:22:01
-NSW,"Lisarow,Gosford & Central Coast NSW",1,Logistics / Transport,N/A,2026-06-23 04:10:40
+NSW,"Lisarow,Gosford & Central Coast NSW",2,Logistics / Transport,N/A,2026-06-24 04:27:41
 NSW,"Lithgow,Blue Mountains & Central West NSW",4,FIFO / Mines,N/A,2026-06-23 15:18:46
 NSW,"Liverpool,Sydney NSW",4,Healthcare / Aged Care,"$53,343",2026-06-22 12:29:09
 NSW,"Liverpool,Sydney NSW(Hybrid)",1,Cleaning / Facilities,$38,2026-06-22 08:22:16
 NSW,"Long Jetty,Gosford & Central Coast NSW",2,Cleaning / Facilities,$32,2026-06-22 08:23:21
 NSW,"Macquarie Park,Sydney NSW",1,Healthcare / Aged Care,"$15,900",2026-06-22 08:13:36
+NSW,"Maitland,Newcastle, Maitland & Hunter NSW",1,Construction,$44,2026-06-24 04:05:46
 NSW,"Mangrove Mountain,Gosford & Central Coast NSW",2,Agriculture / Farms,N/A,2026-06-23 15:21:46
 NSW,"Manly,Sydney NSW",2,Hospitality,N/A,2026-06-22 08:09:17
 NSW,"March,Blue Mountains & Central West NSW",1,Healthcare / Aged Care,N/A,2026-06-22 08:12:06
@@ -211,6 +224,7 @@ NSW,"Marrickville,Sydney NSW",8,Hospitality,"$74,000",2026-06-23 15:27:16
 NSW,"Marsden Park,Sydney NSW",2,Logistics / Transport,$32,2026-06-23 04:10:40
 NSW,"Marsden Park,Sydney NSW(Hybrid)",1,Warehouse / Distribution,N/A,2026-06-22 08:18:36
 NSW,"Mascot,Sydney NSW",2,Hospitality,$25,2026-06-23 04:13:41
+NSW,"Matraville,Sydney NSW",1,Construction,$40,2026-06-24 04:05:46
 NSW,"Minchinbury,Sydney NSW",2,Warehouse / Distribution,N/A,2026-06-23 04:10:40
 NSW,"Minto,Sydney NSW",1,Security,N/A,2026-06-23 15:37:23
 NSW,"Miranda,Sydney NSW",4,Retail,N/A,2026-06-23 04:19:53
@@ -230,30 +244,32 @@ NSW,"Narrabri,Tamworth & North West NSW",3,Agriculture / Farms,"$90,000",2026-06
 NSW,"Narromine,Dubbo & Central NSW",3,Agriculture / Farms,$30,2026-06-23 15:22:01
 NSW,"Nerong,Newcastle, Maitland & Hunter NSW",3,Agriculture / Farms,"$70,000",2026-06-23 15:22:01
 NSW,"Neutral Bay,Sydney NSW",1,Healthcare / Aged Care,N/A,2026-06-22 08:13:36
-NSW,"Newcastle,Newcastle, Maitland & Hunter NSW",31,Healthcare / Aged Care,"$27,695",2026-06-23 15:38:44
+NSW,"Newcastle,Newcastle, Maitland & Hunter NSW",36,Healthcare / Aged Care,"$28,709",2026-06-24 04:05:46
 NSW,"Newcastle,Newcastle, Maitland & Hunter NSW(Hybrid)",5,Healthcare / Aged Care,$35,2026-06-23 15:38:44
 NSW,"Newport,Sydney NSW",1,Hospitality,N/A,2026-06-22 08:09:17
 NSW,"North Epping,Sydney NSW",1,Healthcare / Aged Care,N/A,2026-06-22 08:13:50
 NSW,"North Nowra,Wollongong, Illawarra & South Coast NSW",1,Hospitality,N/A,2026-06-22 08:09:17
 NSW,"North Ryde,Sydney NSW",1,Cleaning / Facilities,N/A,2026-06-23 15:38:44
-NSW,"North Sydney,Sydney NSW",6,Healthcare / Aged Care,$31,2026-06-22 12:29:09
+NSW,"North Sydney,Sydney NSW",7,Healthcare / Aged Care,$32,2026-06-24 04:05:46
 NSW,"North Sydney,Sydney NSW(Hybrid)",3,Cleaning / Facilities,$38,2026-06-22 08:23:21
 NSW,"North Tumbulgum,Lismore & Far North Coast NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:19
 NSW,"North Turramurra,Sydney NSW",1,Healthcare / Aged Care,$29,2026-06-22 08:13:50
+NSW,"Northmead,Sydney NSW",1,Construction,"$70,000",2026-06-24 04:05:46
 NSW,"Nowra,Wollongong, Illawarra & South Coast NSW",2,Security,$38,2026-06-23 04:07:52
 NSW,"Nyngan,Dubbo & Central NSW",3,FIFO / Mines,N/A,2026-06-23 15:18:46
+NSW,"Oberon,Blue Mountains & Central West NSW",1,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Orange,Blue Mountains & Central West NSW",10,FIFO / Mines,"$14,510",2026-06-23 15:30:09
 NSW,"Orange,Blue Mountains & Central West NSW(Remote)",1,Retail,N/A,2026-06-23 04:19:53
 NSW,"Paddington,Sydney NSW",4,Hospitality,$35,2026-06-23 04:19:53
 NSW,"Parkes,Dubbo & Central NSW",12,FIFO / Mines,"$37,180",2026-06-23 15:30:09
 NSW,"Parramatta,Sydney NSW",17,Hospitality,"$28,020",2026-06-23 15:38:44
-NSW,"Peakhurst,Sydney NSW",1,Hospitality,N/A,2026-06-23 15:27:16
+NSW,"Peakhurst,Sydney NSW",2,Hospitality,"$80,000",2026-06-24 04:05:46
 NSW,"Pemulwuy,Sydney NSW",2,Logistics / Transport,N/A,2026-06-23 04:10:40
 NSW,"Penrith,Sydney NSW",7,Agriculture / Farms,$29,2026-06-23 15:22:01
 NSW,"Pheasants Nest,Sydney NSW",2,Hospitality,N/A,2026-06-23 04:13:41
 NSW,"Pokolbin,Newcastle, Maitland & Hunter NSW",1,Cleaning / Facilities,N/A,2026-06-22 08:22:16
-NSW,"Port Macquarie,Port Macquarie & Mid North Coast NSW",10,Healthcare / Aged Care,"$8,359",2026-06-23 15:30:09
-NSW,"Prestons,Sydney NSW",2,Cleaning / Facilities,N/A,2026-06-23 04:10:40
+NSW,"Port Macquarie,Port Macquarie & Mid North Coast NSW",11,Healthcare / Aged Care,"$7,168",2026-06-24 04:27:41
+NSW,"Prestons,Sydney NSW",3,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Punchbowl,Sydney NSW",2,Hospitality,N/A,2026-06-23 04:13:41
 NSW,"Pyrmont,Sydney NSW",2,Cleaning / Facilities,$34,2026-06-23 04:10:40
 NSW,"Queens Park,Sydney NSW",1,Security,$30,2026-06-23 15:37:23
@@ -270,7 +286,8 @@ NSW,"Rouse Hill,Sydney NSW",3,Security,N/A,2026-06-23 15:37:23
 NSW,"Rutherford,Newcastle, Maitland & Hunter NSW",1,FIFO / Mines,$55,2026-06-23 04:06:04
 NSW,"Salamander Bay,Newcastle, Maitland & Hunter NSW",1,Retail,N/A,2026-06-23 04:19:53
 NSW,"Sandringham,Sydney NSW",2,Hospitality,N/A,2026-06-23 04:13:41
-NSW,"Seven Hills,Sydney NSW",1,Security,N/A,2026-06-23 15:37:23
+NSW,"Seven Hills,Sydney NSW",2,Security,N/A,2026-06-24 04:27:41
+NSW,"Shellharbour,Wollongong, Illawarra & South Coast NSW",1,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Shoal Bay,Newcastle, Maitland & Hunter NSW",1,Hospitality,N/A,2026-06-23 15:27:16
 NSW,"Singleton,Newcastle, Maitland & Hunter NSW",6,FIFO / Mines,"$100,380",2026-06-23 15:18:46
 NSW,"Smeaton Grange,Sydney NSW",2,Agriculture / Farms,N/A,2026-06-23 15:21:46
@@ -280,20 +297,21 @@ NSW,"Springdale,Wagga Wagga & Riverina NSW",1,Agriculture / Farms,$31,2026-06-22
 NSW,"St Leonards,Sydney NSW",9,Healthcare / Aged Care,$120,2026-06-22 12:30:52
 NSW,"St Marys,Sydney NSW",2,FIFO / Mines,$57,2026-06-23 04:10:40
 NSW,"Strathfield,Sydney NSW",1,Hospitality,N/A,2026-06-22 12:26:50
+NSW,"Surry Hills,Sydney NSW",1,Construction,$29,2026-06-24 04:05:46
 NSW,"Sydney International Airport,Sydney NSW",3,Cleaning / Facilities,$33,2026-06-23 15:38:44
-NSW,Sydney NSW,101,Hospitality,"$28,452",2026-06-23 15:38:44
+NSW,Sydney NSW,114,Cleaning / Facilities,"$28,032",2026-06-24 04:27:41
 NSW,Sydney NSW(Hybrid),9,Healthcare / Aged Care,"$68,458",2026-06-22 12:29:09
 NSW,Sydney NSW(Remote),6,FIFO / Mines,"$20,042",2026-06-23 15:18:46
 NSW,"Sydney Olympic Park,Sydney NSW",2,Security,N/A,2026-06-23 15:37:23
-NSW,"Tamworth,Tamworth & North West NSW",13,Agriculture / Farms,$32,2026-06-23 15:22:01
+NSW,"Tamworth,Tamworth & North West NSW",15,Agriculture / Farms,$32,2026-06-24 04:27:41
 NSW,"Taree,Port Macquarie & Mid North Coast NSW",6,Agriculture / Farms,"$46,677",2026-06-23 15:22:01
 NSW,"Taren Point,Sydney NSW",2,Hospitality,$34,2026-06-23 04:13:41
 NSW,"Tea Gardens,Newcastle, Maitland & Hunter NSW",1,Healthcare / Aged Care,$40,2026-06-23 15:30:09
 NSW,"Temora,Wagga Wagga & Riverina NSW",1,Agriculture / Farms,$38,2026-06-23 04:07:52
-NSW,"Terania Creek,Lismore & Far North Coast NSW",2,Cleaning / Facilities,$40,2026-06-22 08:22:16
+NSW,"Terania Creek,Lismore & Far North Coast NSW",3,Cleaning / Facilities,$40,2026-06-24 04:27:41
 NSW,"Terrey Hills,Sydney NSW",1,Healthcare / Aged Care,$30,2026-06-22 12:30:52
 NSW,"The Rocks,Sydney NSW",2,Hospitality,N/A,2026-06-23 04:19:53
-NSW,"Thornton,Newcastle, Maitland & Hunter NSW",3,Cleaning / Facilities,$36,2026-06-22 08:23:21
+NSW,"Thornton,Newcastle, Maitland & Hunter NSW",5,Cleaning / Facilities,$36,2026-06-24 04:27:41
 NSW,"Tomago,Newcastle, Maitland & Hunter NSW",2,Warehouse / Distribution,$32,2026-06-23 04:10:40
 NSW,"Tomingley,Dubbo & Central NSW",1,FIFO / Mines,N/A,2026-06-23 04:06:04
 NSW,"Tooleybuc,Albury Area NSW",3,Agriculture / Farms,N/A,2026-06-23 15:22:01
@@ -307,10 +325,10 @@ NSW,"Tweed Heads,Lismore & Far North Coast NSW",3,Hospitality,"$26,595",2026-06-
 NSW,"Tweed Heads,Lismore & Far North Coast NSW(Remote)",1,Retail,N/A,2026-06-23 04:18:35
 NSW,"Ulong,Coffs Harbour & North Coast NSW",1,Cleaning / Facilities,N/A,2026-06-22 08:22:16
 NSW,"Villawood,Sydney NSW",1,Logistics / Transport,$32,2026-06-23 04:10:40
-NSW,"Wagga Wagga,Wagga Wagga & Riverina NSW",6,Healthcare / Aged Care,"$73,230",2026-06-23 15:30:09
+NSW,"Wagga Wagga,Wagga Wagga & Riverina NSW",11,Cleaning / Facilities,"$14,674",2026-06-24 04:27:41
 NSW,"Wahroonga,Sydney NSW",6,Hospitality,$32,2026-06-23 15:37:23
-NSW,"Waratah,Newcastle, Maitland & Hunter NSW",2,Security,$25,2026-06-23 15:37:23
-NSW,"Warners Bay,Newcastle, Maitland & Hunter NSW",2,Cleaning / Facilities,N/A,2026-06-22 08:23:21
+NSW,"Waratah,Newcastle, Maitland & Hunter NSW",3,Security,$25,2026-06-24 04:27:41
+NSW,"Warners Bay,Newcastle, Maitland & Hunter NSW",3,Cleaning / Facilities,N/A,2026-06-24 04:27:41
 NSW,"Warren,Dubbo & Central NSW",6,Agriculture / Farms,"$75,000",2026-06-23 15:22:01
 NSW,"Wentworth Falls,Blue Mountains & Central West NSW",2,Healthcare / Aged Care,$0,2026-06-23 15:30:09
 NSW,"West Albury,Albury Area NSW",2,Healthcare / Aged Care,$29,2026-06-22 08:13:50
@@ -321,7 +339,7 @@ NSW,"Wetherill Park,Sydney NSW",7,Cleaning / Facilities,$25,2026-06-23 04:18:35
 NSW,"Wetherill Park,Sydney NSW(Hybrid)",1,Warehouse / Distribution,N/A,2026-06-22 08:18:36
 NSW,"Wildes Meadow,Southern Highlands & Tablelands NSW",1,Agriculture / Farms,"$58,000",2026-06-22 12:21:35
 NSW,"Wollongbar,Lismore & Far North Coast NSW",3,Agriculture / Farms,N/A,2026-06-23 15:22:01
-NSW,"Wollongong,Wollongong, Illawarra & South Coast NSW",9,Healthcare / Aged Care,"$5,329",2026-06-23 15:30:09
+NSW,"Wollongong,Wollongong, Illawarra & South Coast NSW",12,Healthcare / Aged Care,"$5,329",2026-06-24 04:27:41
 NSW,"Wollstonecraft,Sydney NSW",1,Healthcare / Aged Care,N/A,2026-06-22 08:13:36
 NSW,"Woollahra,Sydney NSW",2,Healthcare / Aged Care,N/A,2026-06-23 04:13:41
 NSW,"Woolloomooloo,Sydney NSW",4,Healthcare / Aged Care,$34,2026-06-22 12:30:52
@@ -343,15 +361,15 @@ NSW,atUniting NSW & ACT,4,Healthcare / Aged Care,$34,2026-06-23 15:30:09
 NSW,atWesTrac NSW,8,FIFO / Mines,"$18,930",2026-06-23 04:06:04
 NSW,atWorkPac - Mining NSW/SA,25,FIFO / Mines,$66,2026-06-23 15:18:46
 NT,"Acacia Hills,Darwin NT",2,FIFO / Mines,N/A,2026-06-22 08:03:14
-NT,"Alice Springs,Alice Springs & Central Australia NT",74,Healthcare / Aged Care,"$35,322",2026-06-23 15:39:43
+NT,"Alice Springs,Alice Springs & Central Australia NT",78,Healthcare / Aged Care,"$37,836",2026-06-24 04:04:09
 NT,"Alice Springs,Alice Springs & Central Australia NT(Remote)",1,Retail,N/A,2026-06-22 12:32:28
 NT,"Baines,Katherine & Northern Australia NT",1,Agriculture / Farms,N/A,2026-06-22 12:22:10
-NT,"Berrimah,Darwin NT",20,FIFO / Mines,"$27,516",2026-06-23 15:36:14
+NT,"Berrimah,Darwin NT",21,FIFO / Mines,"$40,213",2026-06-24 04:04:09
 NT,"Casuarina,Darwin NT",8,Warehouse / Distribution,"$21,913",2026-06-23 15:36:14
 NT,"Coconut Grove,Darwin NT",5,Healthcare / Aged Care,$30,2026-06-23 15:28:59
 NT,"Coolalinga,Darwin NT",6,Healthcare / Aged Care,"$60,000",2026-06-23 15:28:59
 NT,"Darwin International Airport,Darwin NT",5,Retail,N/A,2026-06-23 15:24:02
-NT,Darwin NT,262,FIFO / Mines,"$30,699",2026-06-23 15:39:43
+NT,Darwin NT,277,FIFO / Mines,"$29,536",2026-06-24 04:04:09
 NT,Darwin NT(Hybrid),7,Healthcare / Aged Care,$90,2026-06-23 15:28:59
 NT,Darwin NT(Remote),9,FIFO / Mines,$196,2026-06-23 04:04:55
 NT,"Darwin River Dam,Darwin NT",4,Warehouse / Distribution,N/A,2026-06-23 15:24:02
@@ -359,6 +377,7 @@ NT,"East Arm,Darwin NT",17,Warehouse / Distribution,"$25,017",2026-06-23 15:36:1
 NT,"Eaton,Darwin NT",2,FIFO / Mines,N/A,2026-06-23 04:04:55
 NT,"Gapuwiyak,Katherine & Northern Australia NT",1,Healthcare / Aged Care,$7,2026-06-23 15:27:41
 NT,"Gove,Katherine & Northern Australia NT",4,FIFO / Mines,N/A,2026-06-23 04:02:43
+NT,"Groote Eylandt,Katherine & Northern Australia NT",1,Construction,$66,2026-06-24 04:04:09
 NT,"Holtze,Darwin NT",9,Logistics / Transport,$40,2026-06-23 15:24:02
 NT,"Humpty Doo,Darwin NT",7,Warehouse / Distribution,$48,2026-06-23 04:23:04
 NT,"Johnston,Darwin NT",2,Healthcare / Aged Care,"$67,000",2026-06-22 08:21:59
@@ -371,29 +390,31 @@ NT,"Lajamanu,Alice Springs & Central Australia NT",1,Healthcare / Aged Care,N/A,
 NT,"Larrakeyah,Darwin NT",2,Construction,N/A,2026-06-23 04:03:22
 NT,"Marrara,Darwin NT",2,FIFO / Mines,"$65,000",2026-06-22 08:03:14
 NT,"Mataranka,Katherine & Northern Australia NT",1,Agriculture / Farms,N/A,2026-06-22 12:22:10
-NT,"Nhulunbuy,Katherine & Northern Australia NT",4,Healthcare / Aged Care,$85,2026-06-23 15:28:59
+NT,"Nhulunbuy,Katherine & Northern Australia NT",5,Healthcare / Aged Care,$76,2026-06-24 04:04:09
 NT,"Nightcliff,Darwin NT(Hybrid)",4,Security,$40,2026-06-23 15:36:14
 NT,Northern Territory,1,FIFO / Mines,N/A,2026-06-22 08:01:15
 NT,"Palmerston,Darwin NT",16,Retail,"$9,488",2026-06-23 15:36:14
 NT,"Parap,Darwin NT",3,Security,N/A,2026-06-23 15:36:14
 NT,"Pinelands,Darwin NT",4,Warehouse / Distribution,N/A,2026-06-23 15:24:02
+NT,"Stuart Park,Darwin NT",1,Construction,N/A,2026-06-24 04:04:09
 NT,"Tablelands,Katherine & Northern Australia NT",4,Cleaning / Facilities,N/A,2026-06-23 15:39:43
 NT,"Tanami East,Katherine & Northern Australia NT",2,FIFO / Mines,N/A,2026-06-22 08:01:15
 NT,"Tanami,Alice Springs & Central Australia NT",2,FIFO / Mines,N/A,2026-06-22 12:15:35
 NT,"Tennant Creek,Katherine & Northern Australia NT",13,Healthcare / Aged Care,$51,2026-06-23 15:28:59
-NT,"Tindal,Katherine & Northern Australia NT",2,Construction,N/A,2026-06-23 04:24:22
+NT,"Tindal,Katherine & Northern Australia NT",3,Construction,N/A,2026-06-24 04:04:09
 NT,"Tivendale,Darwin NT",1,FIFO / Mines,N/A,2026-06-22 08:00:35
 NT,"Tiwi Islands,Darwin NT",1,Agriculture / Farms,"$80,000",2026-06-22 12:22:10
 NT,"Tiwi,Darwin NT",3,Security,$30,2026-06-23 15:36:14
 NT,"Umbakumba,Katherine & Northern Australia NT",1,Healthcare / Aged Care,"$92,582",2026-06-23 15:27:41
 NT,"Victoria River,Katherine & Northern Australia NT",1,Agriculture / Farms,N/A,2026-06-22 12:22:10
-NT,"Wadeye,Katherine & Northern Australia NT",6,Cleaning / Facilities,"$6,395",2026-06-23 15:39:43
+NT,"Virginia,Darwin NT",2,Construction,"$100,000",2026-06-24 04:04:09
+NT,"Wadeye,Katherine & Northern Australia NT",7,Cleaning / Facilities,"$5,343",2026-06-24 04:04:09
 NT,"Winnellie,Darwin NT",35,Warehouse / Distribution,"$35,745",2026-06-23 15:39:43
 NT,"Winnellie,Darwin NT(Hybrid)",1,Healthcare / Aged Care,$98,2026-06-22 08:11:59
 NT,"Woolner,Darwin NT",10,Warehouse / Distribution,$30,2026-06-23 15:24:02
 NT,"Yarrawonga,Darwin NT",8,Warehouse / Distribution,"$57,129",2026-06-23 15:28:59
-NT,"Yirrkala,Katherine & Northern Australia NT",1,Security,$35,2026-06-23 04:24:22
-NT,atAMENTUM,7,Cleaning / Facilities,"$102,000",2026-06-23 15:39:43
+NT,"Yirrkala,Katherine & Northern Australia NT",2,Security,$37,2026-06-24 04:04:09
+NT,atAMENTUM,8,Cleaning / Facilities,"$102,000",2026-06-24 04:04:09
 NT,atAirpower (NT) Pty Ltd,2,Retail,"$150,000",2026-06-22 08:14:27
 NT,atAkron Group NT Pty Ltd,1,Cleaning / Facilities,$35,2026-06-22 08:21:59
 NT,atAnglicare NT,2,Healthcare / Aged Care,$4,2026-06-23 15:28:59
@@ -413,12 +434,14 @@ NT,atMEC NT,3,Construction,$56,2026-06-22 12:15:35
 NT,atMech Elec NT Pty Ltd,1,Construction,$60,2026-06-22 12:15:35
 NT,atNT Electrical Group,2,Construction,N/A,2026-06-23 04:02:43
 NT,atNT Link Pty Ltd,2,Construction,"$36,027",2026-06-23 15:36:14
+NT,atNT Proform,1,Construction,$35,2026-06-24 04:04:09
 NT,atNorthern Territory Legal Aid Commission,1,Security,"$68,776",2026-06-23 04:24:22
 NT,atNorthern Territory PHN - Rural Workforce Agency,1,Healthcare / Aged Care,N/A,2026-06-22 08:11:59
 NT,atPremium Plumbing NT Pty Ltd,1,Security,"$80,000",2026-06-23 04:24:22
-NT,atQUALITY CONSTRUCTIONS AND MAINTENANCE,1,FIFO / Mines,N/A,2026-06-22 08:00:35
+NT,atQUALITY CONSTRUCTIONS AND MAINTENANCE,2,FIFO / Mines,N/A,2026-06-24 04:04:09
 NT,atRoyal Flying Doctor Service SA / NT,1,Healthcare / Aged Care,N/A,2026-06-22 08:11:59
 NT,atShamrock Chemicals (NT) Pty Lyd,4,Warehouse / Distribution,N/A,2026-06-23 04:23:04
+NT,"atSouthern Cross Care (SA, NT & VIC) Inc.",1,Construction,N/A,2026-06-24 04:04:09
 NT,atUnited NT Disability Services,1,Healthcare / Aged Care,$33,2026-06-22 12:29:30
 QLD,"Acacia Ridge,Brisbane QLD",4,Logistics / Transport,"$32,516",2026-06-23 15:32:55
 QLD,"Advancetown,Gold Coast QLD",1,Hospitality,$32,2026-06-23 15:25:09
@@ -939,18 +962,19 @@ SA,atSt Vincent de Paul Society (SA),1,Healthcare / Aged Care,N/A,2026-06-22 12:
 SA,atSuper Suction SA,1,FIFO / Mines,$40,2026-06-22 12:20:37
 SA,atUnitingSA,5,Healthcare / Aged Care,N/A,2026-06-22 12:30:32
 TAS,"Alonnah,Hobart TAS",1,Cleaning / Facilities,N/A,2026-06-22 12:40:40
-TAS,"Beaconsfield,Launceston & North East TAS",4,Healthcare / Aged Care,"$59,668",2026-06-22 12:40:40
-TAS,"Bell Bay,Launceston & North East TAS",8,Retail,"$100,000",2026-06-23 15:31:47
-TAS,"Branxholm,Launceston & North East TAS",5,Warehouse / Distribution,N/A,2026-06-23 15:31:47
+TAS,"Beaconsfield,Launceston & North East TAS",6,Healthcare / Aged Care,"$59,668",2026-06-24 04:14:39
+TAS,"Bell Bay,Launceston & North East TAS",10,Retail,"$100,000",2026-06-24 04:21:21
+TAS,"Bellerive,Hobart TAS",1,Hospitality,N/A,2026-06-24 04:14:39
+TAS,"Branxholm,Launceston & North East TAS",6,Retail,N/A,2026-06-24 04:21:21
 TAS,"Breadalbane,Launceston & North East TAS",5,Retail,N/A,2026-06-23 15:31:47
-TAS,"Bridgewater,Hobart TAS",4,Logistics / Transport,N/A,2026-06-23 15:18:38
+TAS,"Bridgewater,Hobart TAS",5,Retail,N/A,2026-06-24 04:21:21
 TAS,"Bridgewater,Hobart TAS(Hybrid)",4,FIFO / Mines,$45,2026-06-23 15:31:47
 TAS,"Bridport,Launceston & North East TAS(Remote)",3,Healthcare / Aged Care,"$15,900",2026-06-23 15:27:52
 TAS,"Brighton,Hobart TAS",2,Logistics / Transport,N/A,2026-06-22 08:16:46
-TAS,"Burnie,Devonport & North West TAS",39,Healthcare / Aged Care,"$23,204",2026-06-23 15:31:19
+TAS,"Burnie,Devonport & North West TAS",42,Healthcare / Aged Care,"$22,045",2026-06-24 04:21:21
 TAS,"Burnie,Devonport & North West TAS(Hybrid)",1,Retail,$104,2026-06-23 04:19:34
 TAS,"Burnie,Devonport & North West TAS(Remote)",1,Retail,"$55,750",2026-06-23 04:19:34
-TAS,"Cambridge,Hobart TAS",19,Warehouse / Distribution,"$78,800",2026-06-23 15:31:19
+TAS,"Cambridge,Hobart TAS",23,Hospitality,"$73,334",2026-06-24 04:21:09
 TAS,"Cambridge,Hobart TAS(Remote)",2,Healthcare / Aged Care,N/A,2026-06-22 08:12:51
 TAS,"Campania,Central & South East TAS",2,Healthcare / Aged Care,$33,2026-06-23 15:27:52
 TAS,"Campbell Town,Launceston & North East TAS",2,Hospitality,N/A,2026-06-23 15:31:19
@@ -958,87 +982,92 @@ TAS,Central & South East TAS,1,Retail,N/A,2026-06-22 08:16:32
 TAS,"Claremont,Hobart TAS",2,Warehouse / Distribution,$44,2026-06-22 12:34:59
 TAS,"Cooee,Devonport & North West TAS",1,Construction,N/A,2026-06-23 15:15:38
 TAS,"Deloraine,Launceston & North East TAS",1,FIFO / Mines,N/A,2026-06-23 15:19:32
-TAS,"Derwent Park,Hobart TAS",10,Warehouse / Distribution,$33,2026-06-23 04:22:37
+TAS,"Derwent Park,Hobart TAS",12,Warehouse / Distribution,$33,2026-06-24 04:21:09
 TAS,Devonport & North West TAS,1,FIFO / Mines,N/A,2026-06-23 04:06:54
-TAS,"Devonport,Devonport & North West TAS",55,Logistics / Transport,"$9,567",2026-06-23 15:31:47
+TAS,"Devonport,Devonport & North West TAS",65,Retail,"$11,377",2026-06-24 04:21:21
 TAS,"Devonport,Devonport & North West TAS(Remote)",1,Healthcare / Aged Care,N/A,2026-06-22 08:12:51
 TAS,"Evandale,Launceston & North East TAS",1,Healthcare / Aged Care,N/A,2026-06-22 08:11:44
 TAS,"Exeter,Launceston & North East TAS",4,Retail,N/A,2026-06-23 15:31:19
 TAS,"Exeter,Launceston & North East TAS(Remote)",2,Healthcare / Aged Care,$34,2026-06-23 15:27:52
-TAS,"Forth,Devonport & North West TAS",3,Retail,N/A,2026-06-23 15:31:47
+TAS,"Forth,Devonport & North West TAS",4,Retail,N/A,2026-06-24 04:21:21
 TAS,"Freycinet,Launceston & North East TAS",2,Hospitality,$31,2026-06-23 04:13:20
 TAS,"George Town,Launceston & North East TAS",7,Healthcare / Aged Care,$41,2026-06-23 15:27:52
 TAS,"Glen Huon,Central & South East TAS",2,Healthcare / Aged Care,N/A,2026-06-22 12:40:40
-TAS,"Glenorchy,Hobart TAS",8,Retail,N/A,2026-06-23 15:31:19
-TAS,"Grassy,Devonport & North West TAS",8,FIFO / Mines,N/A,2026-06-23 15:31:47
-TAS,Hobart TAS,152,Retail,"$18,851",2026-06-23 15:31:47
+TAS,"Glenorchy,Hobart TAS",9,Retail,N/A,2026-06-24 04:14:39
+TAS,"Grassy,Devonport & North West TAS",9,FIFO / Mines,N/A,2026-06-24 04:21:21
+TAS,Hobart TAS,171,Retail,"$22,525",2026-06-24 04:21:21
 TAS,Hobart TAS(Hybrid),6,Retail,"$70,197",2026-06-23 15:28:06
 TAS,Hobart TAS(Remote),2,Hospitality,$37,2026-06-23 15:31:19
 TAS,"Howrah,Hobart TAS",2,Hospitality,N/A,2026-06-23 15:31:19
 TAS,"Invermay,Launceston & North East TAS",1,Hospitality,$30,2026-06-23 04:13:20
 TAS,"Kettering,Hobart TAS",5,Healthcare / Aged Care,"$26,024",2026-06-23 15:27:52
-TAS,"Kings Meadows,Launceston & North East TAS",11,Warehouse / Distribution,$32,2026-06-22 12:34:59
+TAS,"Kings Meadows,Launceston & North East TAS",13,Warehouse / Distribution,$32,2026-06-24 04:14:39
 TAS,"Kingston,Hobart TAS",6,Logistics / Transport,"$30,015",2026-06-23 04:22:37
 TAS,"Latrobe,Devonport & North West TAS",2,Healthcare / Aged Care,"$40,280",2026-06-23 15:28:06
-TAS,"Launceston,Launceston & North East TAS",119,Retail,"$21,910",2026-06-23 15:31:47
+TAS,Launceston & North East TAS,1,Hospitality,N/A,2026-06-24 04:14:39
+TAS,"Launceston,Launceston & North East TAS",132,Retail,"$22,028",2026-06-24 04:21:21
 TAS,"Launceston,Launceston & North East TAS(Hybrid)",1,Healthcare / Aged Care,"$70,000",2026-06-22 08:12:51
 TAS,"Launceston,Launceston & North East TAS(Remote)",3,Healthcare / Aged Care,N/A,2026-06-23 15:27:52
-TAS,"Legana,Launceston & North East TAS",4,Retail,N/A,2026-06-23 15:31:47
+TAS,"Legana,Launceston & North East TAS",6,Retail,N/A,2026-06-24 04:21:21
 TAS,"Longford,Launceston & North East TAS",4,Retail,N/A,2026-06-23 15:31:47
 TAS,"Margate,Hobart TAS",1,FIFO / Mines,N/A,2026-06-23 15:18:38
 TAS,"Merseylea,Devonport & North West TAS",2,Construction,$25,2026-06-23 15:15:38
 TAS,"Moina,Devonport & North West TAS",1,Hospitality,N/A,2026-06-23 04:13:20
-TAS,"Mole Creek,Launceston & North East TAS",8,FIFO / Mines,N/A,2026-06-23 15:31:47
+TAS,"Mole Creek,Launceston & North East TAS",9,FIFO / Mines,N/A,2026-06-24 04:21:21
 TAS,"Moonah,Hobart TAS",4,Retail,$35,2026-06-23 15:31:19
-TAS,"Mornington,Hobart TAS",4,Retail,"$75,000",2026-06-23 15:13:58
-TAS,"Mowbray,Launceston & North East TAS",1,Healthcare / Aged Care,N/A,2026-06-22 08:12:51
+TAS,"Mornington,Hobart TAS",5,Retail,"$75,000",2026-06-24 04:21:09
+TAS,"Mowbray,Launceston & North East TAS",2,Healthcare / Aged Care,N/A,2026-06-24 04:14:39
 TAS,"Naracoopa,Devonport & North West TAS",3,FIFO / Mines,"$105,000",2026-06-23 15:19:06
 TAS,"New Norfolk,Central & South East TAS",2,FIFO / Mines,"$80,524",2026-06-23 15:28:06
 TAS,"New Town,Hobart TAS",2,Retail,$26,2026-06-22 12:34:59
 TAS,"Newnham,Launceston & North East TAS",2,Retail,"$79,000",2026-06-23 04:22:37
-TAS,"Newstead,Launceston & North East TAS",1,Healthcare / Aged Care,N/A,2026-06-23 15:28:06
-TAS,"North Hobart,Hobart TAS",2,Hospitality,$28,2026-06-23 04:19:34
+TAS,"Newstead,Launceston & North East TAS",3,Hospitality,$33,2026-06-24 04:14:39
+TAS,"North Hobart,Hobart TAS",3,Retail,$28,2026-06-24 04:21:09
 TAS,"Oatlands,Central & South East TAS",2,Healthcare / Aged Care,"$80,524",2026-06-23 15:28:06
-TAS,"Old Beach,Hobart TAS",1,Warehouse / Distribution,N/A,2026-06-22 12:34:59
+TAS,"Old Beach,Hobart TAS",2,Warehouse / Distribution,N/A,2026-06-24 04:14:39
 TAS,"Park Grove,Devonport & North West TAS",1,Healthcare / Aged Care,$35,2026-06-23 15:28:06
 TAS,"Penna,Central & South East TAS",2,FIFO / Mines,"$77,000",2026-06-23 15:19:32
-TAS,"Perth,Launceston & North East TAS",3,Retail,N/A,2026-06-23 15:31:47
+TAS,"Perth,Launceston & North East TAS",5,Retail,$30,2026-06-24 04:21:21
 TAS,"Pontville,Hobart TAS",3,Healthcare / Aged Care,$33,2026-06-23 15:27:52
 TAS,"Port Arthur,Central & South East TAS",1,Construction,$32,2026-06-23 15:13:58
 TAS,"Port Huon,Central & South East TAS",1,Construction,$36,2026-06-23 15:13:58
 TAS,"Prospect,Launceston & North East TAS",5,Logistics / Transport,"$74,800",2026-06-23 15:23:35
 TAS,"Quoiba,Devonport & North West TAS",4,Logistics / Transport,$30,2026-06-23 15:23:35
 TAS,"Richmond,Hobart TAS",1,Hospitality,$30,2026-06-23 04:13:20
-TAS,"Rocherlea,Launceston & North East TAS",9,Logistics / Transport,$40,2026-06-23 15:31:47
-TAS,"Rosebery,Devonport & North West TAS",31,FIFO / Mines,N/A,2026-06-23 15:31:47
+TAS,"Rocherlea,Launceston & North East TAS",10,Logistics / Transport,$40,2026-06-24 04:21:21
+TAS,"Rosebery,Devonport & North West TAS",32,FIFO / Mines,N/A,2026-06-24 04:21:21
 TAS,"Rosny Park,Hobart TAS",5,Retail,"$92,004",2026-06-23 15:31:19
 TAS,"Rosny,Hobart TAS",2,Warehouse / Distribution,N/A,2026-06-23 15:31:19
 TAS,"Sassafras,Devonport & North West TAS",3,Warehouse / Distribution,N/A,2026-06-23 04:22:37
-TAS,"Seven Mile Beach,Hobart TAS",1,Retail,N/A,2026-06-23 04:19:34
-TAS,"Sorell,Central & South East TAS",1,Hospitality,N/A,2026-06-23 04:13:20
+TAS,"Seven Mile Beach,Hobart TAS",2,Retail,N/A,2026-06-24 04:21:09
+TAS,"Sorell,Central & South East TAS",3,Hospitality,$38,2026-06-24 04:14:39
 TAS,"South Arm,Hobart TAS",1,Security,"$92,498",2026-06-22 12:37:57
-TAS,"Spreyton,Devonport & North West TAS",7,Retail,"$32,517",2026-06-23 15:31:47
+TAS,"South Burnie,Devonport & North West TAS",1,Hospitality,N/A,2026-06-24 04:14:39
+TAS,"South Hobart,Hobart TAS",1,Hospitality,"$70,000",2026-06-24 04:14:39
+TAS,"Spreyton,Devonport & North West TAS",8,Retail,"$32,517",2026-06-24 04:21:21
+TAS,"St Helens,Launceston & North East TAS",1,Hospitality,"$70,000",2026-06-24 04:14:39
 TAS,"Ulverstone,Devonport & North West TAS",7,Healthcare / Aged Care,N/A,2026-06-23 15:27:52
 TAS,"West Devonport,Devonport & North West TAS",2,Logistics / Transport,$35,2026-06-23 04:22:37
-TAS,"Western Junction,Launceston & North East TAS",8,Logistics / Transport,$31,2026-06-23 15:31:47
-TAS,"Wynyard,Devonport & North West TAS",7,Warehouse / Distribution,"$23,698",2026-06-23 15:19:06
+TAS,"Western Junction,Launceston & North East TAS",9,Logistics / Transport,$31,2026-06-24 04:21:21
+TAS,"Wynyard,Devonport & North West TAS",8,Retail,"$30,460",2026-06-24 04:21:09
 TAS,"Zeehan,Devonport & North West TAS",1,Hospitality,"$65,263",2026-06-23 04:13:20
-TAS,atAnglicare Tasmania Inc,10,Healthcare / Aged Care,$35,2026-06-23 15:27:52
+TAS,atAnglicare Tasmania Inc,11,Healthcare / Aged Care,"$7,989",2026-06-24 04:21:09
 TAS,atBay Hire / Concrete Sawing &Drilling Tasmania,1,Construction,"$70,000",2026-06-23 15:15:38
-TAS,atBluestone Mines Tasmania Joint Venture Pty Ltd,18,FIFO / Mines,N/A,2026-06-23 15:31:47
+TAS,atBluestone Mines Tasmania Joint Venture Pty Ltd,19,FIFO / Mines,N/A,2026-06-24 04:21:21
 TAS,atCommunity Care TASMANIA,1,Healthcare / Aged Care,N/A,2026-06-22 08:12:51
-TAS,atCoreStaff Tasmania,7,Retail,N/A,2026-06-23 15:31:47
+TAS,atCoreStaff Tasmania,9,Retail,N/A,2026-06-24 04:21:21
 TAS,atDocument Management Tasmania,3,Warehouse / Distribution,N/A,2026-06-23 04:22:37
 TAS,atGreenham Tasmania Pty Ltd,3,Logistics / Transport,N/A,2026-06-23 15:18:38
 TAS,atHobart Motorcycles Tasmania,1,Warehouse / Distribution,"$50,000",2026-06-23 04:22:37
-TAS,atHydro Tasmania,1,FIFO / Mines,"$140,877",2026-06-23 15:19:06
+TAS,atHydro Tasmania,2,FIFO / Mines,"$108,487",2026-06-24 04:21:09
 TAS,atITI TAS,1,Warehouse / Distribution,N/A,2026-06-22 08:16:46
 TAS,atIsland Berries Tasmania Pty Ltd,1,Construction,$35,2026-06-23 15:15:38
 TAS,atLEAP Support Services Tasmania,4,Healthcare / Aged Care,N/A,2026-06-23 15:27:52
 TAS,atMetro Tasmania Pty Ltd,1,Logistics / Transport,$33,2026-06-23 15:23:35
-TAS,atProtech TAS,7,FIFO / Mines,N/A,2026-06-23 15:31:47
-TAS,atSouthern Cross Care (Tasmania) Inc,9,Healthcare / Aged Care,"$18,900",2026-06-23 15:27:52
-TAS,atSt Vincent de Paul Society (Tasmania) Ltd,3,Logistics / Transport,N/A,2026-06-23 15:31:19
+TAS,atProtech TAS,9,Retail,N/A,2026-06-24 04:21:21
+TAS,atSouthern Cross Care (Tasmania) Inc,10,Healthcare / Aged Care,"$18,900",2026-06-24 04:14:39
+TAS,atSt John Ambulance Australia Tasmania,1,Retail,N/A,2026-06-24 04:21:09
+TAS,atSt Vincent de Paul Society (Tasmania) Ltd,4,Retail,N/A,2026-06-24 04:21:09
 TAS,atTasmanian Irrigation,1,Retail,N/A,2026-06-23 04:19:34
 TAS,atTasmanian Mobile Locksmith,1,Security,$33,2026-06-22 12:37:57
 TAS,atThe People Project Tasmania,1,Healthcare / Aged Care,N/A,2026-06-23 15:28:06
@@ -1047,23 +1076,28 @@ VIC,Take your career to the next level with Victoria’s leading Forensic Mental
 VIC,"Victoria Park,Perth WA",1,Healthcare / Aged Care,$28,2026-06-23 04:17:44
 VIC,atAROHA SERVICES,11,Healthcare / Aged Care,N/A,2026-06-23 15:37:52
 VIC,atOZLAND MINING SERVICES PTY LTD,1,FIFO / Mines,N/A,2026-06-23 15:19:14
-WA,"Albany,Albany & Great Southern WA",15,Hospitality,"$35,021",2026-06-23 15:21:37
+WA,"Albany,Albany & Great Southern WA",19,Hospitality,"$25,479",2026-06-24 04:20:26
 WA,"Anniebrook,Bunbury & South West WA",1,Agriculture / Farms,"$85,000",2026-06-22 12:21:23
 WA,"Applecross,Perth WA",2,Hospitality,N/A,2026-06-23 04:13:18
 WA,"Armadale,Perth WA",3,Cleaning / Facilities,$45,2026-06-23 04:18:00
 WA,"Arthur River,Northam & Wheatbelt WA",3,Agriculture / Farms,"$80,000",2026-06-23 04:09:51
-WA,"Australind,Bunbury & South West WA",3,Hospitality,N/A,2026-06-23 04:15:27
-WA,"Balcatta,Perth WA",10,Agriculture / Farms,$32,2026-06-23 15:21:37
+WA,"Atwell,Perth WA",1,Hospitality,N/A,2026-06-24 04:14:34
+WA,"Australind,Bunbury & South West WA",4,Hospitality,$33,2026-06-24 04:16:54
+WA,"Balcatta,Perth WA",13,Agriculture / Farms,$32,2026-06-24 04:20:26
 WA,"Baldivis,Perth WA",1,Security,N/A,2026-06-22 08:19:30
+WA,"Balga,Perth WA",1,Hospitality,$28,2026-06-24 04:14:34
+WA,"Ballajura,Perth WA",2,Hospitality,$31,2026-06-24 04:16:54
 WA,"Bassendean,Perth WA",7,Warehouse / Distribution,$30,2026-06-23 15:21:37
-WA,"Bayswater,Perth WA",3,Construction,$33,2026-06-23 04:12:39
+WA,"Bayswater,Perth WA",7,Hospitality,"$15,329",2026-06-24 04:20:26
 WA,"Beechboro,Perth WA",2,Hospitality,N/A,2026-06-23 04:15:27
 WA,"Beeliar,Perth WA",1,Hospitality,N/A,2026-06-22 12:27:33
 WA,"Belmont,Perth WA",5,Hospitality,$33,2026-06-23 15:21:37
 WA,"Bentley,Perth WA",2,Security,"$41,659",2026-06-22 12:23:31
 WA,"Bertram,Perth WA",2,Logistics / Transport,$33,2026-06-23 15:37:02
-WA,"Bibra Lake,Perth WA",14,Construction,$30,2026-06-23 04:21:54
+WA,"Bibra Lake,Perth WA",15,Construction,$30,2026-06-24 04:20:26
+WA,"Bicton,Perth WA",1,Retail,N/A,2026-06-24 04:20:26
 WA,"Booragoon,Perth WA",5,Construction,$50,2026-06-23 04:18:00
+WA,"Bridgetown,Bunbury & South West WA",1,Hospitality,"$65,000",2026-06-24 04:16:54
 WA,Broome & Kimberley WA,1,Cleaning / Facilities,$42,2026-06-22 12:39:47
 WA,"Broome,Broome & Kimberley WA",9,Cleaning / Facilities,"$38,625",2026-06-23 15:37:02
 WA,"Bunbury,Bunbury & South West WA",25,Cleaning / Facilities,"$13,359",2026-06-23 15:37:02
@@ -1072,95 +1106,104 @@ WA,"Burswood,Perth WA",1,Warehouse / Distribution,N/A,2026-06-23 04:21:54
 WA,"Busselton,Bunbury & South West WA",11,Hospitality,$30,2026-06-23 15:36:22
 WA,"Byford,Mandurah & Peel WA",2,Agriculture / Farms,N/A,2026-06-22 12:27:33
 WA,"Cable Beach,Broome & Kimberley WA",4,Cleaning / Facilities,N/A,2026-06-23 04:15:27
-WA,"Canning Vale,Perth WA",28,Warehouse / Distribution,"$4,697",2026-06-23 15:36:23
-WA,"Cannington,Perth WA",6,Hospitality,"$54,009",2026-06-23 04:13:18
+WA,"Canning Vale,Perth WA",29,Warehouse / Distribution,"$4,697",2026-06-24 04:16:54
+WA,"Cannington,Perth WA",9,Hospitality,"$54,009",2026-06-24 04:20:26
 WA,"Capel,Bunbury & South West WA",1,Agriculture / Farms,"$80,000",2026-06-22 08:04:51
 WA,"Carnarvon,Geraldton, Gascoyne & Midwest WA",2,Agriculture / Farms,"$60,018",2026-06-22 12:31:07
+WA,"Castletown,Kalgoorlie, Goldfields & Esperance WA",1,Hospitality,"$80,000",2026-06-24 04:14:34
 WA,"Casuarina,Perth WA",2,Hospitality,N/A,2026-06-22 12:26:54
 WA,"Cataby,Northam & Wheatbelt WA",1,Agriculture / Farms,N/A,2026-06-22 08:04:51
-WA,"Caversham,Perth WA",1,Hospitality,$30,2026-06-22 12:26:54
+WA,"Caversham,Perth WA",2,Hospitality,$30,2026-06-24 04:14:34
 WA,"City Beach,Perth WA",2,Cleaning / Facilities,N/A,2026-06-23 04:13:18
-WA,"Claremont,Perth WA",3,Healthcare / Aged Care,$39,2026-06-23 04:18:01
+WA,"Claremont,Perth WA",4,Hospitality,"$25,026",2026-06-24 04:14:34
 WA,"Clarkson,Perth WA",3,Hospitality,$35,2026-06-23 04:13:18
+WA,"Cockburn Central,Perth WA",1,Hospitality,N/A,2026-06-24 04:16:54
 WA,"Collie,Bunbury & South West WA",9,Cleaning / Facilities,$41,2026-06-23 15:37:02
 WA,"Coogee,Perth WA",1,Hospitality,$30,2026-06-22 12:26:54
 WA,"Corrigin,Northam & Wheatbelt WA",1,FIFO / Mines,N/A,2026-06-23 04:07:16
-WA,"Cottesloe,Perth WA",2,Hospitality,N/A,2026-06-23 04:13:18
-WA,"Cowaramup,Bunbury & South West WA",2,Hospitality,N/A,2026-06-22 12:26:54
+WA,"Cottesloe,Perth WA",3,Hospitality,N/A,2026-06-24 04:17:07
+WA,"Cowaramup,Bunbury & South West WA",3,Hospitality,N/A,2026-06-24 04:17:07
 WA,"Craigie,Perth WA",1,Healthcare / Aged Care,$29,2026-06-23 04:18:00
 WA,"Cranbrook,Albany & Great Southern WA",1,Agriculture / Farms,$33,2026-06-23 04:09:51
 WA,"Currambine,Perth WA",1,Hospitality,N/A,2026-06-22 12:26:54
 WA,"Davenport,Bunbury & South West WA",1,Agriculture / Farms,N/A,2026-06-22 08:04:51
-WA,"Dawesville,Mandurah & Peel WA",1,Cleaning / Facilities,N/A,2026-06-22 12:39:47
+WA,"Dawesville,Mandurah & Peel WA",3,Cleaning / Facilities,$24,2026-06-24 04:20:26
 WA,"Denmark,Albany & Great Southern WA",3,Hospitality,$35,2026-06-23 04:13:18
-WA,"Derby,Broome & Kimberley WA",3,Healthcare / Aged Care,$35,2026-06-23 04:21:54
+WA,"Derby,Broome & Kimberley WA",4,Hospitality,"$35,017",2026-06-24 04:14:34
 WA,"Dianella,Perth WA",1,Cleaning / Facilities,$38,2026-06-22 12:39:47
 WA,"Donnybrook,Bunbury & South West WA",1,Agriculture / Farms,"$90,000",2026-06-22 08:04:51
 WA,"Duncraig,Perth WA",1,Healthcare / Aged Care,N/A,2026-06-23 04:18:01
-WA,"Dunsborough,Bunbury & South West WA",10,Cleaning / Facilities,$39,2026-06-23 04:28:08
-WA,"Dwellingup,Mandurah & Peel WA",2,Hospitality,$32,2026-06-23 04:13:18
-WA,"Eagle Bay,Bunbury & South West WA",1,Hospitality,"$80,000",2026-06-23 04:15:27
+WA,"Dunsborough,Bunbury & South West WA",11,Cleaning / Facilities,$45,2026-06-24 04:17:07
+WA,"Dwellingup,Mandurah & Peel WA",3,Hospitality,$31,2026-06-24 04:14:34
+WA,"Eagle Bay,Bunbury & South West WA",2,Hospitality,"$80,000",2026-06-24 04:17:07
 WA,"East Perth,Perth WA",1,Healthcare / Aged Care,$34,2026-06-22 12:31:07
+WA,"Ellenbrook,Perth WA",1,Retail,$33,2026-06-24 04:20:26
 WA,"Esperance,Kalgoorlie, Goldfields & Esperance WA",2,Cleaning / Facilities,N/A,2026-06-22 08:21:54
-WA,"Fitzroy Crossing,Broome & Kimberley WA",3,Hospitality,"$68,666",2026-06-23 04:12:39
+WA,"Exmouth,Geraldton, Gascoyne & Midwest WA",1,Hospitality,"$79,000",2026-06-24 04:14:34
+WA,"Fitzroy Crossing,Broome & Kimberley WA",4,Hospitality,"$68,500",2026-06-24 04:14:34
 WA,"Floreat,Perth WA",1,Cleaning / Facilities,N/A,2026-06-22 08:21:41
 WA,"Forrestdale,Perth WA",2,Warehouse / Distribution,$31,2026-06-23 15:21:37
 WA,"Forrestfield,Perth WA",4,Warehouse / Distribution,N/A,2026-06-23 04:21:54
-WA,"Fremantle,Perth WA",5,Hospitality,"$63,758",2026-06-23 04:15:27
+WA,"Fremantle,Perth WA",7,Hospitality,"$69,172",2026-06-24 04:17:07
 WA,"Gairdner,Albany & Great Southern WA",2,Agriculture / Farms,N/A,2026-06-23 04:09:51
-WA,"Geraldton,Geraldton, Gascoyne & Midwest WA",6,Healthcare / Aged Care,"$59,044",2026-06-23 04:18:00
+WA,"Geraldton,Geraldton, Gascoyne & Midwest WA",11,Hospitality,"$67,855",2026-06-24 04:20:26
 WA,"Geraldton,Geraldton, Gascoyne & Midwest WA(Hybrid)",1,Warehouse / Distribution,$50,2026-06-22 12:36:13
 WA,"Gidgegannup,Perth WA",1,Hospitality,$35,2026-06-22 08:10:50
 WA,"Gnangara,Perth WA",5,Warehouse / Distribution,N/A,2026-06-23 15:21:37
+WA,"Greenfields,Mandurah & Peel WA",1,Hospitality,N/A,2026-06-24 04:14:34
 WA,"Gwelup,Perth WA",1,Hospitality,$26,2026-06-22 12:26:54
+WA,"Halls Head,Mandurah & Peel WA",1,Hospitality,N/A,2026-06-24 04:14:34
 WA,"Hammond Park,Perth WA",1,Hospitality,N/A,2026-06-22 12:26:54
 WA,"Hazelmere,Perth WA",2,Logistics / Transport,N/A,2026-06-22 12:39:47
 WA,"Henderson,Perth WA",18,Cleaning / Facilities,"$33,000",2026-06-23 15:37:02
 WA,"High Wycombe,Perth WA",2,Hospitality,N/A,2026-06-23 04:21:54
-WA,"Hillarys,Perth WA",4,Security,N/A,2026-06-23 15:37:02
+WA,"Hillarys,Perth WA",5,Security,N/A,2026-06-24 04:17:07
 WA,"Hilton,Perth WA",1,Cleaning / Facilities,N/A,2026-06-22 12:39:47
 WA,"Hope Valley,Perth WA",1,Agriculture / Farms,"$65,000",2026-06-23 15:21:37
 WA,"Jandabup,Perth WA",1,Cleaning / Facilities,N/A,2026-06-22 12:39:47
-WA,"Jandakot,Perth WA",3,Hospitality,N/A,2026-06-23 15:21:37
+WA,"Jandakot,Perth WA",4,Hospitality,N/A,2026-06-24 04:20:26
 WA,"Jerramungup,Albany & Great Southern WA",4,Agriculture / Farms,N/A,2026-06-23 04:09:51
-WA,"Joondalup,Perth WA",10,Hospitality,"$63,594",2026-06-23 04:18:00
+WA,"Joondalup,Perth WA",15,Hospitality,"$45,997",2026-06-24 04:20:26
 WA,"Kalbarri,Geraldton, Gascoyne & Midwest WA",1,Agriculture / Farms,$120,2026-06-22 08:04:51
 WA,"Kalgoorlie,Goldfields & Esperance WA",1,Warehouse / Distribution,$55,2026-06-22 12:36:13
-WA,"Kalgoorlie,Kalgoorlie, Goldfields & Esperance WA",37,FIFO / Mines,"$18,738",2026-06-23 15:37:02
+WA,"Kalgoorlie,Kalgoorlie, Goldfields & Esperance WA",39,FIFO / Mines,"$21,241",2026-06-24 04:16:54
 WA,"Kambalda West,Kalgoorlie, Goldfields & Esperance WA",3,Security,"$100,000",2026-06-23 15:37:02
-WA,"Karratha,Port Hedland, Karratha & Pilbara WA",29,Security,"$35,501",2026-06-23 15:37:02
+WA,"Karratha,Port Hedland, Karratha & Pilbara WA",30,Security,"$33,415",2026-06-24 04:16:54
+WA,"Karrinyup,Perth WA",2,Retail,$26,2026-06-24 04:20:26
 WA,"Katanning,Albany & Great Southern WA",1,Agriculture / Farms,N/A,2026-06-23 04:09:51
 WA,"Kenwick,Perth WA",7,Warehouse / Distribution,$33,2026-06-23 15:21:37
 WA,"Kewdale,Perth WA",6,Logistics / Transport,$40,2026-06-23 04:21:54
 WA,"Kings Park,Perth WA",1,Cleaning / Facilities,N/A,2026-06-22 08:21:54
 WA,"Kununurra,Broome & Kimberley WA",8,Agriculture / Farms,"$85,896",2026-06-23 15:36:23
 WA,"Kwinana Beach,Perth WA",5,FIFO / Mines,$40,2026-06-22 12:23:31
-WA,"Kwinana Town Centre,Perth WA",3,Security,N/A,2026-06-23 15:37:02
+WA,"Kwinana Town Centre,Perth WA",4,Security,N/A,2026-06-24 04:16:54
 WA,"Lake Grace,Northam & Wheatbelt WA",1,Agriculture / Farms,N/A,2026-06-23 04:09:51
 WA,"Landsdale,Perth WA",5,Agriculture / Farms,"$73,348",2026-06-23 04:21:54
-WA,"Lathlain,Perth WA",1,Hospitality,"$77,000",2026-06-23 04:12:39
+WA,"Lathlain,Perth WA",2,Hospitality,"$77,000",2026-06-24 04:14:34
 WA,"Laverton,Kalgoorlie, Goldfields & Esperance WA",1,FIFO / Mines,"$2,500",2026-06-22 08:02:29
-WA,"Leederville,Perth WA",2,Healthcare / Aged Care,N/A,2026-06-23 04:15:27
+WA,"Leederville,Perth WA",3,Hospitality,N/A,2026-06-24 04:17:07
 WA,"Lesmurdie,Perth WA",1,Hospitality,N/A,2026-06-23 04:12:39
 WA,"Lower Chittering,Northam & Wheatbelt WA",1,Agriculture / Farms,N/A,2026-06-23 04:09:51
-WA,"Malaga,Perth WA",6,Security,$30,2026-06-23 15:36:23
-WA,"Mandurah,Mandurah & Peel WA",4,Construction,"$66,675",2026-06-23 04:13:18
+WA,"Malaga,Perth WA",9,Hospitality,$30,2026-06-24 04:16:54
+WA,"Mandurah,Mandurah & Peel WA",7,Hospitality,"$33,352",2026-06-24 04:20:26
 WA,"Marangaroo,Perth WA",1,Healthcare / Aged Care,"$18,500",2026-06-22 12:31:07
 WA,"Marble Bar,Port Hedland, Karratha & Pilbara WA",2,Cleaning / Facilities,$37,2026-06-23 04:28:08
 WA,"Margaret River,Bunbury & South West WA",4,Hospitality,$34,2026-06-22 12:36:13
-WA,"Maylands,Perth WA",4,Hospitality,N/A,2026-06-23 04:13:18
+WA,"Maylands,Perth WA",6,Hospitality,"$80,000",2026-06-24 04:17:07
+WA,"Melville,Perth WA",2,Hospitality,$34,2026-06-24 04:16:54
 WA,"Menora,Perth WA",1,Healthcare / Aged Care,"$15,900",2026-06-22 12:31:07
 WA,"Merredin,Northam & Wheatbelt WA",2,Agriculture / Farms,$120,2026-06-22 08:04:51
-WA,"Midland,Perth WA",15,Hospitality,"$41,192",2026-06-23 04:21:54
-WA,"Mindarie,Perth WA",1,Hospitality,"$80,000",2026-06-23 04:15:27
-WA,"Moora,Northam & Wheatbelt WA",2,Agriculture / Farms,"$120,000",2026-06-23 04:09:51
+WA,"Midland,Perth WA",18,Hospitality,"$35,312",2026-06-24 04:20:26
+WA,"Mindarie,Perth WA",2,Hospitality,"$80,000",2026-06-24 04:17:07
+WA,"Moora,Northam & Wheatbelt WA",3,Agriculture / Farms,"$120,000",2026-06-24 04:14:34
 WA,"Morley,Perth WA",2,Hospitality,$34,2026-06-23 04:13:18
 WA,"Mosman Park,Perth WA",1,Cleaning / Facilities,N/A,2026-06-22 08:21:54
-WA,"Mount Lawley,Perth WA",1,Hospitality,N/A,2026-06-22 12:27:33
+WA,"Mount Hawthorn,Perth WA",1,Hospitality,$35,2026-06-24 04:14:34
+WA,"Mount Lawley,Perth WA",2,Hospitality,N/A,2026-06-24 04:14:34
 WA,"Mount Pleasant,Perth WA",4,Hospitality,$30,2026-06-23 04:13:18
 WA,"Mukinbudin,Northam & Wheatbelt WA",1,Agriculture / Farms,N/A,2026-06-23 04:09:51
 WA,"Mullaloo,Perth WA",3,Hospitality,$26,2026-06-23 04:13:18
-WA,"Mundaring,Perth WA",2,Hospitality,$28,2026-06-22 12:39:47
+WA,"Mundaring,Perth WA",3,Hospitality,"$26,519",2026-06-24 04:17:07
 WA,"Murdoch,Perth WA",1,Healthcare / Aged Care,N/A,2026-06-23 04:18:00
 WA,"Myalup,Bunbury & South West WA",1,Agriculture / Farms,N/A,2026-06-23 04:09:51
 WA,"Myrup,Kalgoorlie, Goldfields & Esperance WA",2,Cleaning / Facilities,N/A,2026-06-22 08:24:03
@@ -1168,48 +1211,53 @@ WA,"Nambeelup,Mandurah & Peel WA(Remote)",2,Agriculture / Farms,"$110,000",2026-
 WA,"Nanutarra,Port Hedland, Karratha & Pilbara WA",1,Hospitality,"$80,000",2026-06-23 04:12:39
 WA,"Naturaliste,Bunbury & South West WA",1,Cleaning / Facilities,N/A,2026-06-22 12:39:47
 WA,"Naval Base,Perth WA",5,Logistics / Transport,"$60,010",2026-06-23 04:21:54
-WA,"Nedlands,Perth WA",7,Hospitality,$31,2026-06-23 04:18:01
+WA,"Nedlands,Perth WA",9,Hospitality,"$37,515",2026-06-24 04:16:54
 WA,"Nedlands,Perth WA(Hybrid)",1,Healthcare / Aged Care,N/A,2026-06-23 04:18:00
 WA,"Neerabup,Perth WA",3,Security,$32,2026-06-22 12:37:28
 WA,"New Norcia,Northam & Wheatbelt WA",2,Agriculture / Farms,N/A,2026-06-23 04:09:51
 WA,"Nilgen,Northam & Wheatbelt WA",2,Agriculture / Farms,N/A,2026-06-23 04:09:51
 WA,"Nollamara,Perth WA",1,Healthcare / Aged Care,$35,2026-06-22 12:31:07
+WA,"Norseman,Kalgoorlie, Goldfields & Esperance WA",1,Hospitality,"$95,000",2026-06-24 04:17:07
 WA,"Norseman,Kalgoorlie, Goldfields & Esperance WA(Remote)",1,Construction,$55,2026-06-22 07:59:47
 WA,Northam & Wheatbelt WA,1,Agriculture / Farms,$140,2026-06-22 08:04:51
 WA,"Northam,Northam & Wheatbelt WA",2,Cleaning / Facilities,N/A,2026-06-22 08:24:03
 WA,"Northampton,Geraldton, Gascoyne & Midwest WA",3,Agriculture / Farms,"$135,000",2026-06-23 04:09:51
-WA,"Northbridge,Perth WA",3,Security,"$75,000",2026-06-23 04:18:01
+WA,"Northbridge,Perth WA",5,Security,"$75,000",2026-06-24 04:20:26
 WA,"Northern Suburbs & Joondalup,Perth WA",1,Logistics / Transport,N/A,2026-06-22 12:23:31
 WA,"O'Connor,Perth WA",3,Hospitality,$28,2026-06-23 15:21:37
 WA,"Oakford,Mandurah & Peel WA",2,Agriculture / Farms,"$100,000",2026-06-23 04:09:51
 WA,"Onslow,Port Hedland, Karratha & Pilbara WA",2,FIFO / Mines,$121,2026-06-23 04:07:16
-WA,"Osborne Park,Perth WA",5,Warehouse / Distribution,"$18,772",2026-06-23 04:21:54
+WA,"Osborne Park,Perth WA",9,Warehouse / Distribution,"$12,526",2026-06-24 04:20:26
 WA,"Palmyra,Perth WA",3,Warehouse / Distribution,$33,2026-06-23 15:21:37
 WA,"Pegs Creek,Port Hedland, Karratha & Pilbara WA",2,Hospitality,"$80,000",2026-06-23 04:15:27
 WA,"Pemberton,Bunbury & South West WA",1,Healthcare / Aged Care,N/A,2026-06-23 04:18:00
 WA,"Peppermint Grove,Perth WA",5,Cleaning / Facilities,$35,2026-06-22 08:21:54
-WA,"Perth Airport,Perth WA",17,Hospitality,$272,2026-06-23 04:21:54
+WA,"Perth Airport,Perth WA",18,Hospitality,$272,2026-06-24 04:17:07
 WA,"Perth Airport,Perth WA(Remote)",2,Cleaning / Facilities,"$87,500",2026-06-23 04:28:08
-WA,Perth WA,267,FIFO / Mines,"$10,658",2026-06-23 15:37:02
+WA,Perth WA,284,FIFO / Mines,"$12,278",2026-06-24 04:20:26
 WA,Perth WA(Hybrid),5,Warehouse / Distribution,$80,2026-06-23 04:09:51
-WA,Perth WA(Remote),6,FIFO / Mines,$55,2026-06-23 15:37:02
+WA,Perth WA(Remote),7,FIFO / Mines,$55,2026-06-24 04:20:26
 WA,"Picton,Bunbury & South West WA",2,Cleaning / Facilities,N/A,2026-06-23 04:28:08
 WA,"Pinjarra,Mandurah & Peel WA",2,Hospitality,$26,2026-06-22 12:27:33
 WA,"Port Hedland,Karratha & Pilbara WA",4,FIFO / Mines,$57,2026-06-22 12:20:09
 WA,"Port Hedland,Port Hedland, Karratha & Pilbara WA",13,Cleaning / Facilities,"$31,696",2026-06-23 04:28:08
+WA,"Port Kennedy,Perth WA",1,Hospitality,"$65,000",2026-06-24 04:17:07
 WA,"Quairading,Northam & Wheatbelt WA",3,Agriculture / Farms,"$85,000",2026-06-23 04:09:51
 WA,"Quinns Rocks,Perth WA",1,Healthcare / Aged Care,N/A,2026-06-22 12:31:07
 WA,"Ravenswood,Mandurah & Peel WA",2,Agriculture / Farms,"$95,000",2026-06-22 12:39:47
+WA,"Riverton,Perth WA",1,Hospitality,$34,2026-06-24 04:16:54
 WA,"Rivervale,Perth WA",1,Cleaning / Facilities,$25,2026-06-22 12:39:47
 WA,"Rockingham & Kwinana,Perth WA",1,Logistics / Transport,$40,2026-06-22 12:23:31
-WA,"Rockingham,Perth WA",7,Security,$34,2026-06-23 15:37:02
+WA,"Rockingham,Perth WA",9,Security,$34,2026-06-24 04:20:26
 WA,"Safety Bay,Perth WA",1,Cleaning / Facilities,N/A,2026-06-22 08:21:41
-WA,"Scarborough,Perth WA",4,Hospitality,"$65,008",2026-06-23 04:15:27
+WA,"Scarborough,Perth WA",6,Hospitality,"$71,006",2026-06-24 04:17:07
+WA,"Shenton Park,Perth WA",1,Retail,N/A,2026-06-24 04:20:26
 WA,"Shoalwater,Perth WA",1,Warehouse / Distribution,$32,2026-06-22 12:36:13
-WA,"South Perth,Perth WA",5,Hospitality,"$40,017",2026-06-23 04:18:00
+WA,"South Perth,Perth WA",7,Hospitality,"$53,345",2026-06-24 04:17:07
 WA,"Spearwood,Perth WA",1,Agriculture / Farms,N/A,2026-06-22 12:21:23
+WA,"Stirling,Perth WA",1,Hospitality,$30,2026-06-24 04:16:54
 WA,"Stoneville,Perth WA",1,Healthcare / Aged Care,$3,2026-06-22 12:31:07
-WA,"Subiaco,Perth WA",2,Hospitality,N/A,2026-06-22 12:27:33
+WA,"Subiaco,Perth WA",4,Hospitality,N/A,2026-06-24 04:16:54
 WA,"Swanbourne,Perth WA",1,Cleaning / Facilities,N/A,2026-06-22 12:39:47
 WA,"Telfer,Port Hedland, Karratha & Pilbara WA",1,FIFO / Mines,N/A,2026-06-23 04:07:16
 WA,"Upper Swan,Perth WA",1,Logistics / Transport,N/A,2026-06-22 12:23:31
@@ -1219,13 +1267,13 @@ WA,"Wangara,Perth WA",11,Warehouse / Distribution,"$33,775",2026-06-23 15:21:37
 WA,"Wanneroo,Perth WA",3,Cleaning / Facilities,N/A,2026-06-22 08:24:03
 WA,"Wattleup,Perth WA",1,FIFO / Mines,$42,2026-06-23 04:07:16
 WA,"Wedgefield,Port Hedland, Karratha & Pilbara WA",1,FIFO / Mines,$65,2026-06-22 08:01:10
-WA,"Welshpool,Perth WA",10,Logistics / Transport,$31,2026-06-23 15:21:37
+WA,"Welshpool,Perth WA",12,Logistics / Transport,$31,2026-06-24 04:16:54
 WA,"Wembley Downs,Perth WA",2,Cleaning / Facilities,N/A,2026-06-22 08:21:54
 WA,"Wembley,Perth WA",2,Warehouse / Distribution,N/A,2026-06-22 12:36:13
-WA,"West Perth,Perth WA",8,Hospitality,"$124,673",2026-06-23 15:37:02
+WA,"West Perth,Perth WA",10,Hospitality,"$124,673",2026-06-24 04:17:07
 WA,"Willagee,Perth WA",1,Healthcare / Aged Care,N/A,2026-06-22 12:31:07
 WA,"Wiluna,Kalgoorlie, Goldfields & Esperance WA",3,FIFO / Mines,N/A,2026-06-23 04:07:16
-WA,"Wilyabrup,Bunbury & South West WA",5,Hospitality,"$80,000",2026-06-23 04:15:27
+WA,"Wilyabrup,Bunbury & South West WA",7,Hospitality,"$80,000",2026-06-24 04:17:07
 WA,"Yallingup,Bunbury & South West WA",1,Cleaning / Facilities,N/A,2026-06-22 12:39:47
 WA,"Yangebup,Perth WA",1,Hospitality,N/A,2026-06-22 12:27:33
 WA,"Yornup,Bunbury & South West WA",1,Agriculture / Farms,N/A,2026-06-23 04:09:51
@@ -1237,11 +1285,11 @@ WA,atFine Food WA,1,Hospitality,"$65,000",2026-06-22 12:26:54
 WA,atFoodbank WA,1,Warehouse / Distribution,$32,2026-06-23 04:21:54
 WA,atKleenduct WA Pty Ltd,4,Cleaning / Facilities,$34,2026-06-23 04:28:08
 WA,atMSWA,1,Healthcare / Aged Care,N/A,2026-06-22 12:31:07
-WA,atOM & WA PTY LTD Trading As DUMBLEYUNG ROADHOUSE CAFE & RESTAURANT,1,Hospitality,"$78,000",2026-06-23 04:12:39
+WA,atOM & WA PTY LTD Trading As DUMBLEYUNG ROADHOUSE CAFE & RESTAURANT,2,Hospitality,"$78,000",2026-06-24 04:14:34
 WA,atPortable Buildings WA TA. Summit Shutter,2,Construction,$50,2026-06-22 12:17:12
 WA,atProlineConcrete WA Pty Ltd,1,Construction,N/A,2026-06-23 04:02:52
 WA,atRAAFA WA,2,Healthcare / Aged Care,"$18,549",2026-06-22 12:31:07
-WA,atSouthern Cross Care WA,1,Cleaning / Facilities,"$18,550",2026-06-22 12:39:47
+WA,atSouthern Cross Care WA,2,Cleaning / Facilities,"$18,550",2026-06-24 04:14:34
 WA,atTrodan Produce (WA) Pty Ltd,2,Agriculture / Farms,"$100,000",2026-06-22 08:04:51
 WA,atUWA Student Guild,1,Hospitality,N/A,2026-06-22 12:27:33
 WA,atUtmost Solutions WA,1,Healthcare / Aged Care,N/A,2026-06-22 12:31:07
