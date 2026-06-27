@@ -4,14 +4,14 @@
     "categories": {
       "Construction": 2908,
       "FIFO / Mines": 3375,
-      "Agriculture / Farms": 2196,
+      "Agriculture / Farms": 2208,
       "Logistics / Transport": 2760,
       "Hospitality": 3389,
       "Healthcare / Aged Care": 3296,
       "Retail": 2590,
-      "Warehouse / Distribution": 2945,
+      "Warehouse / Distribution": 2970,
       "Security": 1895,
-      "Cleaning / Facilities": 2785
+      "Cleaning / Facilities": 2851
     },
     "states": {
       "QLD": 3905,
@@ -19,11 +19,11 @@
       "VIC": 3665,
       "WA": 3736,
       "SA": 3757,
-      "TAS": 3172,
+      "TAS": 3272,
       "NT": 3077,
-      "ACT": 2970
+      "ACT": 3064
     },
-    "avg_salary": "$21,144",
-    "unique_companies": 953
+    "avg_salary": "$21,116",
+    "unique_companies": 978
   }
 }
