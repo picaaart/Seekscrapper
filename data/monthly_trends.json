@@ -25,5 +25,32 @@
     },
     "avg_salary": "$21,316",
     "unique_companies": 1353
+  },
+  "2026-07": {
+    "total_jobs": 987,
+    "categories": {
+      "Construction": 128,
+      "FIFO / Mines": 260,
+      "Agriculture / Farms": 40,
+      "Logistics / Transport": 32,
+      "Hospitality": 140,
+      "Healthcare / Aged Care": 32,
+      "Retail": 81,
+      "Warehouse / Distribution": 128,
+      "Security": 50,
+      "Cleaning / Facilities": 96
+    },
+    "states": {
+      "NSW": 128,
+      "QLD": 160,
+      "SA": 96,
+      "TAS": 241,
+      "ACT": 121,
+      "WA": 113,
+      "VIC": 64,
+      "NT": 64
+    },
+    "avg_salary": "$20,900",
+    "unique_companies": 131
   }
 }
