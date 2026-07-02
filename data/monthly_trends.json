@@ -27,10 +27,10 @@
     "unique_companies": 1353
   },
   "2026-07": {
-    "total_jobs": 1328,
+    "total_jobs": 1392,
     "categories": {
-      "Construction": 192,
-      "FIFO / Mines": 400,
+      "Construction": 224,
+      "FIFO / Mines": 432,
       "Agriculture / Farms": 40,
       "Logistics / Transport": 32,
       "Hospitality": 172,
@@ -47,10 +47,10 @@
       "TAS": 305,
       "ACT": 133,
       "WA": 145,
-      "VIC": 128,
-      "NT": 169
+      "VIC": 160,
+      "NT": 201
     },
-    "avg_salary": "$20,210",
-    "unique_companies": 158
+    "avg_salary": "$19,663",
+    "unique_companies": 162
   }
 }

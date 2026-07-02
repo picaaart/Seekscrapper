@@ -813,7 +813,7 @@ NSW,atWestern NSW Local Health District,1,Healthcare / Aged Care,"$74,317",2026-
 NSW,atWorkPac - Mining NSW/SA,58,FIFO / Mines,$66,2026-06-30 14:35:55
 NT,"Acacia Hills,Darwin NT",3,FIFO / Mines,N/A,2026-06-24 09:43:50
 NT,"Ali Curung,Katherine & Northern Australia NT",6,Agriculture / Farms,"$122,000",2026-06-30 04:14:18
-NT,"Alice Springs,Alice Springs & Central Australia NT",456,Healthcare / Aged Care,"$37,042",2026-07-01 10:23:44
+NT,"Alice Springs,Alice Springs & Central Australia NT",461,Healthcare / Aged Care,"$37,220",2026-07-02 04:01:54
 NT,"Alice Springs,Alice Springs & Central Australia NT(Hybrid)",2,Healthcare / Aged Care,N/A,2026-06-30 04:22:26
 NT,"Alice Springs,Alice Springs & Central Australia NT(Remote)",17,FIFO / Mines,$30,2026-06-30 04:24:35
 NT,"Baines,Katherine & Northern Australia NT",1,Agriculture / Farms,N/A,2026-06-22 12:22:10
@@ -826,32 +826,32 @@ NT,"Casuarina,Darwin NT",72,Retail,"$5,712",2026-07-01 10:19:29
 NT,"Coconut Grove,Darwin NT",20,Retail,$30,2026-07-01 04:40:07
 NT,"Coolalinga,Darwin NT",35,Healthcare / Aged Care,"$56,191",2026-07-01 10:19:29
 NT,"Darwin International Airport,Darwin NT",31,Warehouse / Distribution,"$70,000",2026-07-01 10:19:29
-NT,Darwin NT,1658,FIFO / Mines,"$25,276",2026-07-01 10:23:44
+NT,Darwin NT,1669,FIFO / Mines,"$25,085",2026-07-02 04:01:54
 NT,Darwin NT(Hybrid),29,Healthcare / Aged Care,"$30,827",2026-06-30 10:04:45
 NT,Darwin NT(Remote),38,FIFO / Mines,$72,2026-07-01 10:19:29
 NT,"Darwin River Dam,Darwin NT",20,Warehouse / Distribution,$33,2026-07-01 04:40:56
-NT,"Darwin River,Darwin NT",2,Construction,"$70,000",2026-06-30 14:32:51
+NT,"Darwin River,Darwin NT",3,Construction,"$70,000",2026-07-02 04:01:54
 NT,"Driver,Darwin NT",4,Construction,N/A,2026-07-01 10:01:07
-NT,"East Arm,Darwin NT",84,Warehouse / Distribution,"$15,308",2026-07-01 10:19:29
+NT,"East Arm,Darwin NT",86,Warehouse / Distribution,"$14,505",2026-07-02 04:01:54
 NT,"Eaton,Darwin NT",6,FIFO / Mines,N/A,2026-06-30 04:16:29
-NT,"Fannie Bay,Darwin NT",30,Construction,N/A,2026-06-30 20:18:16
+NT,"Fannie Bay,Darwin NT",32,Construction,N/A,2026-07-02 04:01:54
 NT,"Gapuwiyak,Katherine & Northern Australia NT",1,Healthcare / Aged Care,$7,2026-06-23 15:27:41
 NT,"Gove,Katherine & Northern Australia NT",56,FIFO / Mines,"$37,015",2026-07-01 10:04:57
 NT,"Groote Eylandt,Katherine & Northern Australia NT",2,Construction,$66,2026-06-28 04:20:14
 NT,"Gunbalanya,Katherine & Northern Australia NT(Hybrid)",2,Healthcare / Aged Care,"$123,800",2026-06-29 16:11:44
-NT,"Holtze,Darwin NT",48,Construction,$33,2026-07-01 10:04:57
+NT,"Holtze,Darwin NT",51,Construction,$33,2026-07-02 04:01:54
 NT,"Humpty Doo,Darwin NT",44,FIFO / Mines,$48,2026-07-01 10:23:44
 NT,"Humpty Doo,Darwin NT(Remote)",1,FIFO / Mines,$40,2026-06-29 16:00:20
 NT,"Jabiru,Katherine & Northern Australia NT",7,Construction,"$70,000",2026-06-30 04:26:17
 NT,"Johnston,Darwin NT",6,Healthcare / Aged Care,"$67,000",2026-06-29 16:11:44
-NT,"Kakadu,Katherine & Northern Australia NT",16,FIFO / Mines,$46,2026-06-30 20:09:40
+NT,"Kakadu,Katherine & Northern Australia NT",17,FIFO / Mines,$45,2026-07-02 04:01:54
 NT,"Kaltukatjara,Alice Springs & Central Australia NT",2,Healthcare / Aged Care,N/A,2026-06-23 15:27:41
 NT,Katherine & Northern Australia NT,2,Healthcare / Aged Care,N/A,2026-06-29 04:41:04
 NT,Katherine & Northern Australia NT(Remote),1,Healthcare / Aged Care,$105,2026-06-29 04:41:04
 NT,"Katherine East,Katherine & Northern Australia NT",4,Hospitality,N/A,2026-07-01 04:40:07
-NT,"Katherine,Katherine & Northern Australia NT",307,Agriculture / Farms,"$38,555",2026-07-01 10:23:44
+NT,"Katherine,Katherine & Northern Australia NT",311,Agriculture / Farms,"$38,213",2026-07-02 04:01:54
 NT,"Katherine,Katherine & Northern Australia NT(Remote)",2,Healthcare / Aged Care,$90,2026-06-29 04:41:04
-NT,"Knuckey Lagoon,Darwin NT",3,Logistics / Transport,$35,2026-06-28 14:10:31
+NT,"Knuckey Lagoon,Darwin NT",4,Logistics / Transport,$32,2026-07-02 04:01:54
 NT,"Lajamanu,Alice Springs & Central Australia NT",12,Healthcare / Aged Care,"$100,000",2026-06-30 04:22:26
 NT,"Lajamanu,Alice Springs & Central Australia NT(Remote)",3,Healthcare / Aged Care,N/A,2026-06-29 16:11:44
 NT,"Larapinta,Alice Springs & Central Australia NT",3,Healthcare / Aged Care,$72,2026-06-30 04:22:26
@@ -899,9 +899,9 @@ NT,"Yarrawonga,Darwin NT",37,Construction,"$33,654",2026-07-01 10:01:07
 NT,"Yirrkala,Katherine & Northern Australia NT",15,FIFO / Mines,$39,2026-06-30 14:32:51
 NT,"Yulara,Alice Springs & Central Australia NT",17,Security,$35,2026-06-30 14:52:36
 NT,"Yulara,Alice Springs & Central Australia NT(Remote)",4,Retail,N/A,2026-07-01 04:40:07
-NT,atAMENTUM,59,Cleaning / Facilities,"$68,009",2026-07-01 10:23:44
+NT,atAMENTUM,60,Cleaning / Facilities,"$68,009",2026-07-02 04:01:54
 NT,atAirpower (NT) Pty Ltd,4,Retail,"$150,000",2026-06-26 20:15:13
-NT,atAkron Group NT Pty Ltd,16,Cleaning / Facilities,"$27,877",2026-06-30 14:51:33
+NT,atAkron Group NT Pty Ltd,17,Cleaning / Facilities,"$26,021",2026-07-02 04:01:54
 NT,atAll Cast (NT),2,Construction,$40,2026-06-28 14:01:45
 NT,atAnglicare NT,6,Healthcare / Aged Care,$3,2026-06-30 10:04:45
 NT,atAsbuild NT,11,FIFO / Mines,$45,2026-06-30 04:24:35
@@ -2257,7 +2257,7 @@ VIC,"Our national footprint covers rail projects throughout WA, QLD, VIC, NSW & 
 VIC,Take your career to the next level with Victoria’s leading Forensic Mental Health Provider. We are looking for passionate nurses across Australia!,3,Healthcare / Aged Care,"$76,236",2026-06-28 09:34:03
 VIC,"Victoria Park,Perth WA",28,Healthcare / Aged Care,"$16,689",2026-06-30 14:43:56
 VIC,atAROHA SERVICES,30,Healthcare / Aged Care,N/A,2026-07-01 04:36:54
-VIC,atOZLAND MINING SERVICES PTY LTD,3,FIFO / Mines,N/A,2026-06-28 09:24:29
+VIC,atOZLAND MINING SERVICES PTY LTD,4,FIFO / Mines,N/A,2026-07-02 04:07:04
 VIC,atPRYCE MINING SERVICES PTY LTD,14,FIFO / Mines,N/A,2026-06-30 09:55:54
 VIC,atPriceline Pharmacy East Victoria Park,2,Retail,N/A,2026-06-29 04:44:11
 WA,"Albany,Albany & Great Southern WA",91,Hospitality,"$25,111",2026-07-01 04:46:10
