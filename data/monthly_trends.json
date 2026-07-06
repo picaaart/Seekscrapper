@@ -27,30 +27,30 @@
     "unique_companies": 1353
   },
   "2026-07": {
-    "total_jobs": 15118,
+    "total_jobs": 16271,
     "categories": {
-      "Construction": 1895,
-      "FIFO / Mines": 2064,
-      "Agriculture / Farms": 1116,
-      "Logistics / Transport": 1737,
-      "Hospitality": 1665,
-      "Healthcare / Aged Care": 1760,
-      "Retail": 1129,
-      "Warehouse / Distribution": 1601,
-      "Security": 1063,
-      "Cleaning / Facilities": 1088
+      "Construction": 2051,
+      "FIFO / Mines": 2128,
+      "Agriculture / Farms": 1154,
+      "Logistics / Transport": 1769,
+      "Hospitality": 1767,
+      "Healthcare / Aged Care": 1888,
+      "Retail": 1351,
+      "Warehouse / Distribution": 1792,
+      "Security": 1139,
+      "Cleaning / Facilities": 1232
     },
     "states": {
-      "NSW": 1936,
-      "QLD": 2007,
-      "SA": 1947,
-      "TAS": 1837,
-      "ACT": 1604,
-      "WA": 1887,
-      "VIC": 1977,
-      "NT": 1923
+      "NSW": 2127,
+      "QLD": 2071,
+      "SA": 2139,
+      "TAS": 1960,
+      "ACT": 1727,
+      "WA": 2047,
+      "VIC": 2227,
+      "NT": 1973
     },
-    "avg_salary": "$21,395",
-    "unique_companies": 680
+    "avg_salary": "$21,519",
+    "unique_companies": 704
   }
 }
