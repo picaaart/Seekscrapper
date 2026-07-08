@@ -1,11 +1,11 @@
 job_category,total_jobs,avg_salary,unique_companies,top_state,demand_level
-Agriculture / Farms,4984,"$32,582",207,WA,HIGH
-Cleaning / Facilities,6163,"$16,208",230,QLD,HIGH
-Construction,7625,"$18,462",366,SA,HIGH
-FIFO / Mines,8241,"$15,300",342,SA,HIGH
-Healthcare / Aged Care,7648,"$24,149",336,VIC,HIGH
-Hospitality,7079,"$22,531",294,VIC,HIGH
-Logistics / Transport,5732,"$18,142",285,SA,HIGH
-Retail,5489,"$20,976",281,SA,HIGH
-Security,4217,"$35,091",191,VIC,HIGH
-Warehouse / Distribution,7356,"$18,336",320,QLD,HIGH
+Agriculture / Farms,5080,"$32,388",210,NSW,HIGH
+Cleaning / Facilities,6355,"$16,042",235,QLD,HIGH
+Construction,7762,"$18,455",368,SA,HIGH
+FIFO / Mines,8421,"$15,142",346,SA,HIGH
+Healthcare / Aged Care,7808,"$24,392",340,VIC,HIGH
+Hospitality,7226,"$22,495",299,VIC,HIGH
+Logistics / Transport,5828,"$18,157",285,SA,HIGH
+Retail,5492,"$20,976",281,SA,HIGH
+Security,4377,"$34,467",199,NSW,HIGH
+Warehouse / Distribution,7421,"$18,452",320,QLD,HIGH
