@@ -129,11 +129,11 @@ NSW,"Adelong,Tumut, Snowy & Monaro NSW",2,Warehouse / Distribution,N/A,2026-07-1
 NSW,"Albion Park Rail,Wollongong, Illawarra & South Coast NSW",7,FIFO / Mines,"$21,450",2026-07-06 04:15:23
 NSW,"Albion Park,Wollongong, Illawarra & South Coast NSW",9,Cleaning / Facilities,$36,2026-07-09 15:48:53
 NSW,Albury Area NSW,2,Warehouse / Distribution,N/A,2026-07-09 04:09:22
-NSW,"Albury,Albury Area NSW",97,Healthcare / Aged Care,"$15,027",2026-07-10 19:56:19
+NSW,"Albury,Albury Area NSW",98,Healthcare / Aged Care,"$15,027",2026-07-11 03:37:10
 NSW,"Albury,Albury Area NSW(Hybrid)",3,Security,N/A,2026-07-08 14:51:07
 NSW,"Albury,Albury Area NSW(Remote)",1,Healthcare / Aged Care,N/A,2026-07-03 14:36:50
-NSW,"Alexandria,Sydney NSW",43,Security,"$24,710",2026-07-09 15:39:54
-NSW,"Alexandria,Sydney NSW(Hybrid)",3,Retail,N/A,2026-07-06 16:02:52
+NSW,"Alexandria,Sydney NSW",44,Security,"$27,374",2026-07-11 03:37:10
+NSW,"Alexandria,Sydney NSW(Hybrid)",4,Retail,N/A,2026-07-11 03:37:10
 NSW,"Alexandria,Sydney NSW(Remote)",5,Healthcare / Aged Care,$35,2026-07-10 19:56:19
 NSW,"Alstonville,Lismore & Far North Coast NSW",5,Construction,$45,2026-07-08 19:43:41
 NSW,"Ambarvale,Sydney NSW",1,Hospitality,$39,2026-06-29 04:39:14
@@ -160,7 +160,7 @@ NSW,"Balranald,Wagga Wagga & Riverina NSW",30,FIFO / Mines,$38,2026-07-10 09:50:
 NSW,"Bangalow,Lismore & Far North Coast NSW",2,Logistics / Transport,$34,2026-07-08 08:49:20
 NSW,"Banksmeadow,Sydney NSW",28,Warehouse / Distribution,"$48,007",2026-07-08 14:39:48
 NSW,"Banksmeadow,Sydney NSW(Hybrid)",1,Warehouse / Distribution,N/A,2026-07-06 20:26:57
-NSW,"Bankstown,Sydney NSW",33,Retail,"$10,945",2026-07-10 04:08:10
+NSW,"Bankstown,Sydney NSW",34,Retail,"$10,945",2026-07-11 03:37:10
 NSW,"Bankstown,Sydney NSW(Remote)",2,Healthcare / Aged Care,"$60,000",2026-06-28 14:15:53
 NSW,"Banora Point,Lismore & Far North Coast NSW",10,Healthcare / Aged Care,"$1,798",2026-07-08 14:42:53
 NSW,"Barangaroo,Sydney NSW",33,Hospitality,"$13,612",2026-07-10 09:57:46
@@ -211,7 +211,7 @@ NSW,"Boggabri,Tamworth & North West NSW",9,Security,"$200,706",2026-07-10 10:08:
 NSW,"Bomaderry,Wollongong, Illawarra & South Coast NSW",4,Construction,$46,2026-06-30 09:51:48
 NSW,"Bondi Beach,Sydney NSW",5,Hospitality,$30,2026-07-08 08:49:20
 NSW,"Bondi Junction,Sydney NSW",29,Retail,$27,2026-07-10 19:58:58
-NSW,"Bondi,Sydney NSW",25,Cleaning / Facilities,$25,2026-07-10 20:04:55
+NSW,"Bondi,Sydney NSW",26,Cleaning / Facilities,$25,2026-07-11 03:37:10
 NSW,"Bonny Hills,Port Macquarie & Mid North Coast NSW",2,Hospitality,"$80,000",2026-06-29 11:21:04
 NSW,"Boolaroo,Newcastle, Maitland & Hunter NSW",7,Agriculture / Farms,N/A,2026-07-07 10:15:38
 NSW,"Booragul,Newcastle, Maitland & Hunter NSW",1,Hospitality,N/A,2026-06-25 14:58:30
@@ -256,7 +256,7 @@ NSW,"Cameron Park,Newcastle, Maitland & Hunter NSW",3,Warehouse / Distribution,$
 NSW,"Cammeray,Sydney NSW",3,Security,N/A,2026-06-29 11:32:31
 NSW,"Campbelltown,Sydney NSW",58,Security,"$29,386",2026-07-10 19:56:19
 NSW,"Campbelltown,Sydney NSW(Remote)",3,Retail,N/A,2026-07-10 19:58:58
-NSW,"Camperdown,Sydney NSW",9,Healthcare / Aged Care,"$5,323",2026-07-08 14:48:06
+NSW,"Camperdown,Sydney NSW",10,Warehouse / Distribution,"$5,323",2026-07-11 03:37:10
 NSW,"Camperdown,Sydney NSW(Hybrid)",3,Healthcare / Aged Care,$33,2026-07-06 11:05:20
 NSW,"Caniaba,Lismore & Far North Coast NSW",10,Agriculture / Farms,N/A,2026-07-09 15:28:30
 NSW,"Canley Vale,Sydney NSW",2,Construction,N/A,2026-07-06 15:45:23
@@ -283,7 +283,7 @@ NSW,"Central Mangrove,Gosford & Central Coast NSW",3,Agriculture / Farms,N/A,202
 NSW,"Cessnock,Newcastle, Maitland & Hunter NSW",9,Construction,$35,2026-07-08 19:43:41
 NSW,"Charlestown,Newcastle, Maitland & Hunter NSW",21,Healthcare / Aged Care,N/A,2026-07-02 14:29:17
 NSW,"Charmhaven,Gosford & Central Coast NSW",4,Construction,N/A,2026-07-03 19:37:40
-NSW,"Chatswood,Sydney NSW",34,Retail,"$37,242",2026-07-09 15:39:40
+NSW,"Chatswood,Sydney NSW",35,Retail,"$37,242",2026-07-11 03:37:10
 NSW,"Cherrybrook,Sydney NSW",1,Retail,$28,2026-06-29 04:45:26
 NSW,"Chester Hill,Sydney NSW",1,Healthcare / Aged Care,$40,2026-07-04 19:37:12
 NSW,"Chifley,Sydney NSW",3,Security,$43,2026-07-10 10:08:01
@@ -303,7 +303,7 @@ NSW,Coffs Harbour & North Coast NSW,4,Agriculture / Farms,N/A,2026-07-09 15:28:3
 NSW,"Coffs Harbour Jetty,Coffs Harbour & North Coast NSW",2,Hospitality,$36,2026-06-28 04:32:54
 NSW,"Coffs Harbour,Coffs Harbour & North Coast NSW",55,Healthcare / Aged Care,"$38,337",2026-07-10 19:58:58
 NSW,"Coffs Harbour,Coffs Harbour & North Coast NSW(Hybrid)",3,Healthcare / Aged Care,$50,2026-06-29 11:24:32
-NSW,"Collaroy,Sydney NSW",16,Retail,$41,2026-07-09 04:02:47
+NSW,"Collaroy,Sydney NSW",17,Retail,$41,2026-07-11 03:37:10
 NSW,"Colo,Richmond & Hawkesbury NSW(Hybrid)",2,Agriculture / Farms,N/A,2026-07-09 03:56:22
 NSW,"Como,Sydney NSW",1,Hospitality,"$80,000",2026-06-24 09:51:56
 NSW,"Concord,Sydney NSW",5,Hospitality,"$40,016",2026-07-09 04:02:47
@@ -325,7 +325,7 @@ NSW,"Crabbes Creek,Lismore & Far North Coast NSW",2,Agriculture / Farms,$26,2026
 NSW,"Cranebrook,Sydney NSW",8,Construction,$35,2026-07-05 19:25:49
 NSW,"Cremorne,Sydney NSW",5,Hospitality,N/A,2026-07-08 14:39:48
 NSW,"Crescent Head,Port Macquarie & Mid North Coast NSW",4,Hospitality,$34,2026-07-09 04:02:33
-NSW,"Cromer,Sydney NSW",3,Construction,$41,2026-07-09 15:48:53
+NSW,"Cromer,Sydney NSW",4,Construction,$41,2026-07-11 03:37:10
 NSW,"Cronulla,Sydney NSW",7,Cleaning / Facilities,$32,2026-07-05 09:26:59
 NSW,"Croppa Creek,Tamworth & North West NSW",2,Agriculture / Farms,N/A,2026-07-05 13:58:33
 NSW,"Crows Nest,Sydney NSW",9,Hospitality,"$69,000",2026-07-10 10:07:46
@@ -343,7 +343,7 @@ NSW,"Denman,Newcastle, Maitland & Hunter NSW",4,FIFO / Mines,$101,2026-07-10 09:
 NSW,"Dorrigo,Coffs Harbour & North Coast NSW",3,Healthcare / Aged Care,"$21,688",2026-07-04 13:56:31
 NSW,"Double Bay,Sydney NSW",16,Hospitality,$31,2026-07-10 09:57:46
 NSW,"Double Bay,Sydney NSW(Hybrid)",1,Retail,"$80,080",2026-06-27 04:14:59
-NSW,"Drummoyne,Sydney NSW",9,Retail,"$80,000",2026-07-06 16:02:52
+NSW,"Drummoyne,Sydney NSW",10,Retail,"$80,000",2026-07-11 03:37:10
 NSW,Dubbo & Central NSW,2,FIFO / Mines,$90,2026-06-28 14:03:23
 NSW,"Dubbo,Dubbo & Central NSW",199,FIFO / Mines,"$9,407",2026-07-10 19:56:19
 NSW,"Dubbo,Dubbo & Central NSW(Hybrid)",1,Healthcare / Aged Care,N/A,2026-06-22 12:29:09
@@ -455,7 +455,7 @@ NSW,"Hillvue,Tamworth & North West NSW",1,Hospitality,N/A,2026-07-09 04:02:06
 NSW,"Hobartville,Richmond & Hawkesbury NSW",3,Hospitality,"$79,499",2026-07-10 19:51:20
 NSW,"Holsworthy,Sydney NSW",2,Cleaning / Facilities,$27,2026-06-25 20:34:57
 NSW,"Homebush West,Sydney NSW",21,Agriculture / Farms,"$79,631",2026-07-10 09:56:13
-NSW,"Homebush,Sydney NSW",36,Retail,"$15,408",2026-07-10 19:58:58
+NSW,"Homebush,Sydney NSW",39,Retail,"$14,310",2026-07-11 03:37:10
 NSW,"Homebush,Sydney NSW(Hybrid)",3,Retail,N/A,2026-06-28 14:17:09
 NSW,"Horningsea Park,Sydney NSW",2,Retail,$33,2026-07-10 04:15:26
 NSW,"Hornsby,Sydney NSW",27,Healthcare / Aged Care,"$7,915",2026-07-10 04:08:10
@@ -526,7 +526,7 @@ NSW,"Leppington,Sydney NSW",14,Warehouse / Distribution,"$18,208",2026-07-09 04:
 NSW,"Leumeah,Sydney NSW",4,Security,$33,2026-07-03 19:51:18
 NSW,"Leura,Blue Mountains & Central West NSW",8,Hospitality,"$37,515",2026-07-08 03:33:21
 NSW,"Lewisham,Sydney NSW",5,Hospitality,"$21,273",2026-07-09 04:02:06
-NSW,"Lidcombe,Sydney NSW",62,Warehouse / Distribution,"$5,959",2026-07-09 15:28:30
+NSW,"Lidcombe,Sydney NSW",63,Warehouse / Distribution,"$5,959",2026-07-11 03:37:10
 NSW,"Lightning Ridge,Far West & North Central NSW",10,Cleaning / Facilities,"$45,964",2026-07-07 10:15:38
 NSW,"Lindendale,Lismore & Far North Coast NSW",10,Agriculture / Farms,"$65,000",2026-07-09 15:28:30
 NSW,"Lindfield,Sydney NSW",2,Healthcare / Aged Care,$30,2026-06-30 10:06:45
@@ -546,7 +546,7 @@ NSW,"Long Jetty,Gosford & Central Coast NSW",2,Cleaning / Facilities,$32,2026-06
 NSW,"Lovedale,Newcastle, Maitland & Hunter NSW",2,Hospitality,$2,2026-07-05 09:26:59
 NSW,"Luddenham,Sydney NSW",6,FIFO / Mines,$35,2026-07-03 19:51:18
 NSW,"Luskintyre,Newcastle, Maitland & Hunter NSW",5,Cleaning / Facilities,$31,2026-07-10 20:04:55
-NSW,"Macquarie Park,Sydney NSW",38,Security,"$57,990",2026-07-10 19:58:58
+NSW,"Macquarie Park,Sydney NSW",39,Security,"$57,990",2026-07-11 03:37:10
 NSW,"Macquarie Park,Sydney NSW(Hybrid)",3,Warehouse / Distribution,N/A,2026-07-05 04:18:58
 NSW,"Maitland,Newcastle, Maitland & Hunter NSW",21,Healthcare / Aged Care,$34,2026-07-09 15:48:53
 NSW,"Maitland,Newcastle, Maitland & Hunter NSW(Hybrid)",1,Retail,$37,2026-06-27 04:14:59
@@ -652,10 +652,10 @@ NSW,"North Richmond,Richmond & Hawkesbury NSW",5,Healthcare / Aged Care,"$85,000
 NSW,"North Rocks,Sydney NSW",2,Logistics / Transport,$30,2026-07-09 04:02:47
 NSW,"North Ryde,Sydney NSW",24,Cleaning / Facilities,"$37,490",2026-07-10 10:08:01
 NSW,"North Ryde,Sydney NSW(Hybrid)",1,Logistics / Transport,N/A,2026-07-06 15:55:16
-NSW,"North Shore & Northern Beaches,Sydney NSW",17,Healthcare / Aged Care,"$50,895",2026-07-08 14:42:53
+NSW,"North Shore & Northern Beaches,Sydney NSW",19,Healthcare / Aged Care,"$52,906",2026-07-11 03:37:10
 NSW,"North St Marys,Sydney NSW",3,Construction,$34,2026-06-30 09:51:48
 NSW,"North Strathfield,Sydney NSW",2,Healthcare / Aged Care,"$15,900",2026-06-26 20:23:53
-NSW,"North Sydney,Sydney NSW",66,Cleaning / Facilities,$294,2026-07-10 09:57:46
+NSW,"North Sydney,Sydney NSW",68,Warehouse / Distribution,$294,2026-07-11 03:37:10
 NSW,"North Sydney,Sydney NSW(Hybrid)",17,Cleaning / Facilities,$43,2026-07-09 15:48:53
 NSW,"North Tumbulgum,Lismore & Far North Coast NSW",2,FIFO / Mines,N/A,2026-07-06 04:24:27
 NSW,"North Turramurra,Sydney NSW",5,Healthcare / Aged Care,$32,2026-07-03 14:36:50
@@ -679,16 +679,16 @@ NSW,"Orange,Blue Mountains & Central West NSW(Remote)",1,Retail,N/A,2026-06-23 0
 NSW,"Orchard Hills,Sydney NSW",6,FIFO / Mines,N/A,2026-07-01 04:39:33
 NSW,"Orchard Hills,Sydney NSW(Hybrid)",1,Warehouse / Distribution,N/A,2026-07-06 20:26:57
 NSW,"Ourimbah,Gosford & Central Coast NSW",2,Hospitality,N/A,2026-06-25 14:58:30
-NSW,"Paddington,Sydney NSW",6,Hospitality,$35,2026-07-06 16:02:52
+NSW,"Paddington,Sydney NSW",7,Hospitality,$35,2026-07-11 03:37:10
 NSW,"Padstow,Sydney NSW",3,Logistics / Transport,$35,2026-07-05 09:16:47
 NSW,"Padstow,Sydney NSW(Hybrid)",1,Agriculture / Farms,$33,2026-06-26 14:43:31
 NSW,"Pagewood,Sydney NSW",1,Retail,N/A,2026-06-29 04:45:26
 NSW,"Pallamallawa,Tamworth & North West NSW",5,Agriculture / Farms,N/A,2026-07-09 03:56:22
 NSW,"Pambula,Wollongong, Illawarra & South Coast NSW",1,FIFO / Mines,N/A,2026-06-30 20:08:41
-NSW,"Parkes,Dubbo & Central NSW",64,FIFO / Mines,"$26,911",2026-07-10 09:50:26
+NSW,"Parkes,Dubbo & Central NSW",65,FIFO / Mines,"$26,911",2026-07-11 03:37:10
 NSW,"Parkes,Dubbo & Central NSW(Remote)",3,FIFO / Mines,"$135,000",2026-06-30 20:08:41
 NSW,"Parramatta & Western Suburbs,Sydney NSW",7,Construction,$34,2026-07-09 04:15:15
-NSW,"Parramatta,Sydney NSW",117,Retail,"$15,478",2026-07-10 19:58:58
+NSW,"Parramatta,Sydney NSW",118,Retail,"$15,478",2026-07-11 03:37:10
 NSW,"Parramatta,Sydney NSW(Hybrid)",6,Cleaning / Facilities,$39,2026-07-10 10:07:46
 NSW,"Peakhurst,Sydney NSW",8,Warehouse / Distribution,"$80,000",2026-07-08 19:43:41
 NSW,"Peats Ridge,Gosford & Central Coast NSW",5,Retail,N/A,2026-07-10 09:50:26
@@ -710,7 +710,7 @@ NSW,"Port Botany,Sydney NSW",2,Retail,$56,2026-07-09 03:50:20
 NSW,"Port Botany,Sydney NSW(Hybrid)",1,Logistics / Transport,N/A,2026-07-06 15:55:16
 NSW,"Port Kembla,Wollongong, Illawarra & South Coast NSW",20,FIFO / Mines,$40,2026-07-08 14:28:32
 NSW,Port Macquarie & Mid North Coast NSW,2,FIFO / Mines,N/A,2026-07-10 09:50:26
-NSW,"Port Macquarie,Port Macquarie & Mid North Coast NSW",100,Healthcare / Aged Care,"$10,480",2026-07-10 20:04:55
+NSW,"Port Macquarie,Port Macquarie & Mid North Coast NSW",101,Healthcare / Aged Care,"$11,154",2026-07-11 03:37:10
 NSW,"Port Macquarie,Port Macquarie & Mid North Coast NSW(Hybrid)",2,Healthcare / Aged Care,$50,2026-06-29 11:24:32
 NSW,"Potts Point,Sydney NSW",9,Hospitality,"$37,525",2026-06-29 11:32:31
 NSW,"Prestons,Sydney NSW",35,Warehouse / Distribution,"$32,162",2026-07-10 09:56:13
@@ -773,7 +773,7 @@ NSW,"Silverdale,Sydney NSW(Hybrid)",1,Security,N/A,2026-07-01 04:43:52
 NSW,"Silverwater,Sydney NSW",46,Warehouse / Distribution,"$11,793",2026-07-10 10:07:46
 NSW,"Singleton,Newcastle, Maitland & Hunter NSW",92,FIFO / Mines,"$23,662",2026-07-10 19:58:58
 NSW,"Smeaton Grange,Sydney NSW",32,Agriculture / Farms,$36,2026-07-10 09:56:13
-NSW,"Smithfield,Sydney NSW",41,Warehouse / Distribution,"$24,810",2026-07-10 10:07:46
+NSW,"Smithfield,Sydney NSW",42,Warehouse / Distribution,"$24,810",2026-07-11 03:37:10
 NSW,"Smithtown,Port Macquarie & Mid North Coast NSW",13,Retail,N/A,2026-07-08 14:48:06
 NSW,"Somersby,Gosford & Central Coast NSW",16,FIFO / Mines,"$49,882",2026-07-09 03:50:20
 NSW,"South Albury,Albury Area NSW",1,FIFO / Mines,N/A,2026-06-24 14:46:41
@@ -791,7 +791,7 @@ NSW,"South Windsor,Richmond & Hawkesbury NSW",14,Agriculture / Farms,$34,2026-07
 NSW,"Spring Farm,Sydney NSW",5,Construction,$41,2026-06-30 10:09:48
 NSW,"Springdale,Wagga Wagga & Riverina NSW",8,Agriculture / Farms,$31,2026-07-08 14:45:31
 NSW,"Springwood,Blue Mountains & Central West NSW",1,Healthcare / Aged Care,N/A,2026-07-08 14:42:53
-NSW,"St Clair,Sydney NSW",2,Retail,N/A,2026-07-06 16:02:52
+NSW,"St Clair,Sydney NSW",3,Retail,N/A,2026-07-11 03:37:10
 NSW,"St George,Wollongong, Illawarra & South Coast NSW",2,Agriculture / Farms,N/A,2026-06-30 20:12:57
 NSW,"St Georges Basin,Wollongong, Illawarra & South Coast NSW",1,Healthcare / Aged Care,$40,2026-07-09 04:03:40
 NSW,"St Leonards,Sydney NSW",34,Healthcare / Aged Care,"$16,102",2026-07-09 15:39:54
@@ -814,7 +814,7 @@ NSW,"Sutherland,Sydney NSW(Remote)",3,Cleaning / Facilities,$38,2026-07-09 15:48
 NSW,"Sutton,Southern Highlands & Tablelands NSW",1,Cleaning / Facilities,$34,2026-07-10 20:04:55
 NSW,"Sydney Domestic Airport,Sydney NSW",2,Construction,N/A,2026-06-29 11:13:09
 NSW,"Sydney International Airport,Sydney NSW",11,Cleaning / Facilities,$33,2026-06-28 14:17:09
-NSW,Sydney NSW,1039,Security,"$21,993",2026-07-10 20:04:55
+NSW,Sydney NSW,1043,Security,"$21,949",2026-07-11 03:37:10
 NSW,Sydney NSW(Hybrid),62,Warehouse / Distribution,"$137,838",2026-07-08 14:51:07
 NSW,Sydney NSW(Remote),49,Healthcare / Aged Care,"$13,208",2026-07-10 19:56:19
 NSW,"Sydney Olympic Park,Sydney NSW",21,Security,"$56,256",2026-07-08 09:01:11
@@ -883,7 +883,7 @@ NSW,"Villawood,Sydney NSW(Hybrid)",1,Logistics / Transport,$43,2026-06-25 20:18:
 NSW,"Vincentia,Wollongong, Illawarra & South Coast NSW",1,Cleaning / Facilities,$33,2026-07-10 20:04:55
 NSW,"Vineyard,Richmond & Hawkesbury NSW",6,Logistics / Transport,"$60,000",2026-07-10 10:07:46
 NSW,"Wadalba,Gosford & Central Coast NSW",1,Healthcare / Aged Care,$34,2026-06-30 14:44:44
-NSW,"Wagga Wagga,Wagga Wagga & Riverina NSW",142,Hospitality,"$5,714",2026-07-10 19:58:58
+NSW,"Wagga Wagga,Wagga Wagga & Riverina NSW",144,Hospitality,"$5,714",2026-07-11 03:37:10
 NSW,"Wahroonga,Sydney NSW",21,Hospitality,$31,2026-07-10 09:57:46
 NSW,"Wahroonga,Sydney NSW(Hybrid)",1,Healthcare / Aged Care,N/A,2026-07-06 11:05:20
 NSW,"Waitara,Sydney NSW",4,Cleaning / Facilities,$29,2026-07-10 20:04:55
@@ -912,7 +912,7 @@ NSW,"Wentworthville,Sydney NSW",3,Healthcare / Aged Care,$38,2026-06-30 14:44:44
 NSW,"Werrington,Sydney NSW",1,Construction,$40,2026-07-08 14:28:32
 NSW,"West Albury,Albury Area NSW",6,Healthcare / Aged Care,$29,2026-06-30 10:07:00
 NSW,"West Ballina,Lismore & Far North Coast NSW",4,Hospitality,$40,2026-07-09 04:02:33
-NSW,"West Gosford,Gosford & Central Coast NSW",24,Warehouse / Distribution,$30,2026-07-10 10:07:46
+NSW,"West Gosford,Gosford & Central Coast NSW",25,Warehouse / Distribution,$30,2026-07-11 03:37:10
 NSW,"West Pennant Hills,Sydney NSW",1,Hospitality,N/A,2026-06-25 14:58:30
 NSW,"West Ryde,Sydney NSW",3,Security,N/A,2026-07-08 14:51:07
 NSW,"West Wyalong,Dubbo & Central NSW",40,FIFO / Mines,"$4,527",2026-07-10 09:50:26
